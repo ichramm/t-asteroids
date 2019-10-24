@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="T-Asteroids" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Game\;Engine\;Network\;Network\Network core\;Global\;Game\Factory\;Game\Menus\;Game\Modos\;Sound\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\T-Asteroids" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-Os" />
+					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-O1" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Debug\T-Asteroids" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin\Debug" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-O1" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fexpensive-optimizations" />
+			<Add option="-O3" />
+			<Add option="-O2" />
+			<Add option="-O1" />
+			<Add option="-O" />
+			<Add option="-g" />
+			<Add directory="C:\Archivos de programa\MinGW\include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="libws2_32.a" />
+			<Add library="lib\glut32.lib" />
+			<Add library="lib\libfmodex.a" />
+			<Add directory="C:\Archivos de programa\MinGW\lib" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="Animable.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Animable.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Asteroide.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Asteroide.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="BalaComun.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="BalaComun.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="BolaExplosiva.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="BolaExplosiva.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="CadenaParticulas.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="CadenaParticulas.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Camara.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Camara.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ClienteAsteroide.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteAsteroide.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteBalaComun.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteBalaComun.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteChat.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteChat.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteMisil.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteMisil.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteModoJuego.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteModoJuego.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNaveGhost.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNaveGhost.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNavePesada.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNavePesada.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNavePichi.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteNavePichi.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClientePoder.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClientePoder.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ClienteRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ClienteRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="Colisionable.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Colisionable.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="CondTargeteable.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="CondTargeteable.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Condicionable.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Condition.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="ControladorClienteRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ControladorClienteRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ControladorConexionRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ControladorConexionRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ControladorRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ControladorRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="CtrlJuego.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="CtrlJuego.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Dibujable.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Dibujable.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="EfectoRotEsc.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="EfectoRotEsc.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Electricidad.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Electricidad.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Engine.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Engine.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Escena.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Escena.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Esfera.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Esfera.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Espiral.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Espiral.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Evento.cpp">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Evento.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Explosion.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Explosion.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="ExplosionParticulas.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="ExplosionParticulas.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="FBalaComun.cpp">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FBalaComun.h">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FElectricidad.cpp">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FElectricidad.h">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FEmbestida.cpp">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FEmbestida.h">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FMisil.cpp">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FMisil.h">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FMunicion.cpp">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="FMunicion.h">
+			<Option virtualFolder="Game\Factory\" />
+		</Unit>
+		<Unit filename="GL.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="HashTable.cpp">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="HashTable.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Hasheable.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Humo.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Humo.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Id3Tag.cpp">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="Id3Tag.h">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="LensFlare.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="LensFlare.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Logger.cpp">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Logger.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Luz.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Luz.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="MFisica.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="MFisica.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="MainMenu3D.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MainMenu3D.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="Malla.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Malla.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ManejadorModelos.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ManejadorModelos.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ManejadorTexturas.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ManejadorTexturas.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Matematicas.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Matematicas.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Material.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Material.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Matriz4x4.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Matriz4x4.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Menu.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="Menu.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuConfig3D.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuConfig3D.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuCreditos.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuCreditos.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuItem.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuItem.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuJuego.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuJuego.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuNave.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuNave.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuRed.cpp">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="MenuRed.h">
+			<Option virtualFolder="Game\Menus\" />
+		</Unit>
+		<Unit filename="Misil.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Misil.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Modelo.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Modelo.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Modo.cpp">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="Modo.h">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="ModoJuego.cpp">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="ModoJuego.h">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="ModoMenu3D.cpp">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="ModoMenu3D.h">
+			<Option virtualFolder="Game\Modos\" />
+		</Unit>
+		<Unit filename="Mouse.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Mouse.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Multiobjeto3d.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Multiobjeto3d.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Municion.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Municion.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="MusicPlayer.cpp">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="MusicPlayer.h">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="Nave.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Nave.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NaveGhostM.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NaveGhostM.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NavePesada.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NavePesada.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NavePichi.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="NavePichi.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Objeto3d.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Objeto3d.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="ObserversConexion.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ObserversConexion.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="OrbitaParticulas.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="OrbitaParticulas.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="PaqueteRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="PaqueteRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="Poder.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Poder.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Producto.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ProductorConsumidor.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ProductorConsumidor.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="PrototiposClientes.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="PrototiposClientes.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="Ref.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="SeccionCritica.cpp">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="SeccionCritica.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="ServidorChat.cpp">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ServidorChat.h">
+			<Option virtualFolder="Network\" />
+		</Unit>
+		<Unit filename="ServidorRed.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="ServidorRed.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="Settings.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Settings.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="SistemaParticulas.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="SistemaParticulas.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Socket.cpp">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="Socket.h">
+			<Option virtualFolder="Network\Network core\" />
+		</Unit>
+		<Unit filename="SoundManager.cpp">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="SoundManager.h">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="SoundPlayer.cpp">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="SoundPlayer.h">
+			<Option virtualFolder="Sound\" />
+		</Unit>
+		<Unit filename="Sprite.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Sprite.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Targeteable.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Teclado.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Teclado.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="TextBox.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="TextBox.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Texto2D.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Texto2D.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Texto3D.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Texto3D.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Textura.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Textura.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Thread.cpp">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Thread.h">
+			<Option virtualFolder="Global\" />
+		</Unit>
+		<Unit filename="Vector.cpp">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="Vector.h">
+			<Option virtualFolder="Engine\" />
+		</Unit>
+		<Unit filename="main.cc" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

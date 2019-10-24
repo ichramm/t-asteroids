@@ -1,0 +1,6888 @@
+# depslib dependency file v1.0
+1225762711 source:e:\develop\asteroids\asteroidsiiid\animable.cpp
+	"Animable.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\animable.h
+	<iostream>
+	"MFisica.h"
+	<iostream>
+	"MFisica.h"
+
+1226267860 e:\develop\asteroids\asteroidsiiid\mfisica.h
+	<vector>
+	<iostream>
+	"SeccionCritica.h"
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+	<vector>
+	<iostream>
+	"SeccionCritica.h"
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+
+1224956384 e:\develop\asteroids\asteroidsiiid\seccioncritica.h
+	<windows.h>
+
+1137525131 c:\archivos de programa\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1137525131 c:\archivos de programa\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1137525131 c:\archivos de programa\mingw\include\winuser.h
+
+1137525131 c:\archivos de programa\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1137525131 c:\archivos de programa\mingw\include\winerror.h
+
+1130458202 c:\archivos de programa\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1130458200 c:\archivos de programa\mingw\include\_mingw.h
+
+1137525126 c:\archivos de programa\mingw\include\basetsd.h
+
+1137525129 c:\archivos de programa\mingw\include\pshpack4.h
+
+1137525129 c:\archivos de programa\mingw\include\poppack.h
+
+1137525131 c:\archivos de programa\mingw\include\winver.h
+
+1137525126 c:\archivos de programa\mingw\include\dde.h
+
+1137525126 c:\archivos de programa\mingw\include\dlgs.h
+
+1137525126 c:\archivos de programa\mingw\include\commctrl.h
+	<prsht.h>
+
+1137525129 c:\archivos de programa\mingw\include\prsht.h
+
+1137525131 c:\archivos de programa\mingw\include\windef.h
+	<winnt.h>
+
+1137525131 c:\archivos de programa\mingw\include\wincon.h
+
+1137525131 c:\archivos de programa\mingw\include\winbase.h
+
+1137525131 c:\archivos de programa\mingw\include\wingdi.h
+
+1137525131 c:\archivos de programa\mingw\include\winnls.h
+
+1137525131 c:\archivos de programa\mingw\include\winnetwk.h
+
+1137525131 c:\archivos de programa\mingw\include\winreg.h
+
+1137525131 c:\archivos de programa\mingw\include\winsvc.h
+
+1137525126 c:\archivos de programa\mingw\include\cderr.h
+
+1137525126 c:\archivos de programa\mingw\include\ddeml.h
+
+1137525127 c:\archivos de programa\mingw\include\imm.h
+
+1137525128 c:\archivos de programa\mingw\include\lzexpand.h
+
+1137525128 c:\archivos de programa\mingw\include\mmsystem.h
+
+1137525128 c:\archivos de programa\mingw\include\nb30.h
+
+1137525129 c:\archivos de programa\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1137525129 c:\archivos de programa\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1137525126 c:\archivos de programa\mingw\include\basetyps.h
+
+1137525129 c:\archivos de programa\mingw\include\rpcdcep.h
+
+1137525129 c:\archivos de programa\mingw\include\rpcnsi.h
+
+1137525130 c:\archivos de programa\mingw\include\rpcnterr.h
+
+1130458200 c:\archivos de programa\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1137525130 c:\archivos de programa\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1137525129 c:\archivos de programa\mingw\include\pshpack2.h
+
+1137525131 c:\archivos de programa\mingw\include\winperf.h
+
+1137525126 c:\archivos de programa\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1137525130 c:\archivos de programa\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1137525128 c:\archivos de programa\mingw\include\objfwd.h
+	<basetyps.h>
+
+1137525132 c:\archivos de programa\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1137525129 c:\archivos de programa\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1137525129 c:\archivos de programa\mingw\include\rpcnsip.h
+
+1137525131 c:\archivos de programa\mingw\include\winspool.h
+
+1137525131 c:\archivos de programa\mingw\include\winsock2.h
+	<windows.h>
+
+1137525131 c:\archivos de programa\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1137525128 c:\archivos de programa\mingw\include\mswsock.h
+
+1137525128 c:\archivos de programa\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1137525128 c:\archivos de programa\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1130458202 c:\archivos de programa\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1137525128 c:\archivos de programa\mingw\include\objidl.h
+	<objfwd.h>
+
+1137525126 c:\archivos de programa\mingw\include\cguid.h
+
+1137525129 c:\archivos de programa\mingw\include\olectlid.h
+
+1137525129 c:\archivos de programa\mingw\include\oleauto.h
+	<oaidl.h>
+
+1137525128 c:\archivos de programa\mingw\include\oaidl.h
+
+1137525129 c:\archivos de programa\mingw\include\oleidl.h
+	<objfwd.h>
+
+1226552783 ne
+
+1185381192 c:\archivos de programa\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+903464686 113
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+903468286 110
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1137525132 c:\archivos de programa\mingw\include\gl\gl.h
+
+1226364917 56
+
+1226340653 55
+
+1137525132 c:\archivos de programa\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+	<stddef.h>
+	<GL/gl.h>
+
+1211066209 c:\documents and settings\administrador\escritorio\porquerias de nico\ingenieria\computacion grafica\tarea1\svn\vector.h
+	<iostream>
+
+1210906407 c:\documents and settings\administrador\escritorio\porquerias de nico\ingenieria\computacion grafica\tarea1\svn\matriz4x4.h
+
+1222744372 e:\develop\asteroids\asteroidsiiid\colisionable.h
+	"Condicionable.h"
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1226563687 93
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+	"Colisionable.h"
+	"Vector.h"
+	"Sprite.h"
+	"Objeto3d.h"
+	"ClienteChat.h"
+	"Animable.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\condicionable.h
+
+1222744373 e:\develop\asteroids\asteroidsiiid\vector.h
+	<math.h>
+	<iostream>
+	<math.h>
+	<iostream>
+
+1130458201 c:\archivos de programa\mingw\include\math.h
+	<_mingw.h>
+
+1222744373 e:\develop\asteroids\asteroidsiiid\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1130458200 c:\archivos de programa\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1218775435 d:\develop\matriz4x4.h
+	"Vector.h"
+
+1218775435 d:\develop\esfera.h
+	"Matematicas.h"
+
+1218775434 d:\develop\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1218775434 d:\develop\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1218775435 d:\develop\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1218775435 d:\develop\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1218775435 d:\develop\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1218775435 d:\develop\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1218775434 d:\develop\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1218775435 d:\develop\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1218775434 d:\develop\thread.h
+	<windows.h>
+
+1218775435 d:\develop\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1218775434 d:\develop\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1218775435 d:\develop\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1218775434 d:\develop\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1218775435 d:\develop\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1218775434 d:\develop\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1218775434 d:\develop\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1218775435 d:\develop\sistemaparticulas.h
+	"Dibujable.h"
+
+1218775434 d:\develop\mouse.h
+	"GL.h"
+
+1218775435 d:\develop\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1218775435 d:\develop\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1218775435 d:\develop\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+	"MenuPrincipal.h"
+
+1218775435 d:\develop\modo.h
+
+1218839413 d:\develop\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuPrincipal.h"
+	"Nave.h"
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ModoMenu3D.h"
+
+1218775434 d:\develop\menuprincipal.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"MenuConfig.h"
+	"MenuCreditos.h"
+	"MenuIntro.h"
+	"MenuAyuda.h"
+
+1218775435 d:\develop\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+
+1218775434 d:\develop\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1218775435 d:\develop\menuconfig.h
+	"ModoMenu.h"
+	"MenuSombra.h"
+	"ModoJuego.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	<vector>
+
+1218775434 d:\develop\menusombra.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	<vector>
+
+1218775434 d:\develop\menucreditos.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"MenuPrincipal.h"
+
+1218775434 d:\develop\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	<vector>
+
+1218775435 d:\develop\menuayuda.h
+	"ModoMenu.h"
+	"MenuConfig.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	<vector>
+
+1218839413 d:\develop\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FMisil.h"
+	"FBalaComun.h"
+
+1218775435 d:\develop\settings.h
+	<iostream>
+	<string>
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+
+1218775435 d:\develop\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+
+1218775434 d:\develop\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+
+1218775435 d:\develop\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"Nave.h"
+	"Asteroide.h"
+
+1218775435 d:\develop\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1218775434 d:\develop\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+
+1218775434 d:\develop\orbitaparticulas.h
+	"Animable.h"
+
+1218775435 d:\develop\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1218775435 d:\develop\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1218775435 d:\develop\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1218775434 d:\develop\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1218775434 d:\develop\fmunicion.h
+	"Vector.h"
+
+1218775434 d:\develop\fmisil.h
+	<string>
+	<iostream>
+	"FMunicion.h"
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+
+1218775434 d:\develop\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1218775435 d:\develop\condition.h
+	"Condicionable.h"
+
+1218775434 source:d:\develop\asteroide.cpp
+	"Asteroide.h"
+
+1218775434 source:d:\develop\balacomun.cpp
+	"BalaComun.h"
+
+1218775434 source:d:\develop\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1218775435 source:d:\develop\camara.cpp
+	"Camara.h"
+
+1218775435 source:d:\develop\colisionable.cpp
+	"Colisionable.h"
+
+1218839413 source:d:\develop\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1218775435 source:d:\develop\dibujable.cpp
+	"Dibujable.h"
+
+1218839413 source:d:\develop\engine.cpp
+	"Engine.h"
+
+1218775434 source:d:\develop\escena.cpp
+	"Escena.h"
+
+1218775434 source:d:\develop\esfera.cpp
+	"Esfera.h"
+
+1218775435 source:d:\develop\espiral.cpp
+	"Espiral.h"
+
+1218775435 source:d:\develop\explosion.cpp
+	"Explosion.h"
+
+1218775434 source:d:\develop\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1218775434 source:d:\develop\fbalacomun.cpp
+	"FBalaComun.h"
+
+1218775434 source:d:\develop\fmisil.cpp
+	"FMisil.h"
+
+1218775435 source:d:\develop\fmunicion.cpp
+	"FMunicion.h"
+
+1218775434 source:d:\develop\humo.cpp
+	"Humo.h"
+
+1218775435 source:d:\develop\lensflare.cpp
+	"LensFlare.h"
+
+1218775435 source:d:\develop\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1218775435 source:d:\develop\mfisica.cpp
+	"MFisica.h"
+
+1218775434 source:d:\develop\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1218775434 source:d:\develop\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1218775434 source:d:\develop\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1218775435 source:d:\develop\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1218775434 source:d:\develop\material.cpp
+	"Material.h"
+
+1218775435 source:d:\develop\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1218775434 source:d:\develop\menuayuda.cpp
+	"MenuAyuda.h"
+
+1218775435 source:d:\develop\menuconfig.cpp
+	"MenuConfig.h"
+
+1218775435 source:d:\develop\menucreditos.cpp
+	"MenuCreditos.h"
+
+1218775435 source:d:\develop\menuintro.cpp
+	"MenuIntro.h"
+
+1218775435 source:d:\develop\menuprincipal.cpp
+	"MenuPrincipal.h"
+	"NavePichi.h"
+
+1218775434 d:\develop\navepichi.h
+	"Nave.h"
+
+1218775435 source:d:\develop\menusombra.cpp
+	"MenuSombra.h"
+
+1218775434 source:d:\develop\misil.cpp
+	"Misil.h"
+
+1218775435 source:d:\develop\modelo.cpp
+	"Modelo.h"
+
+1218775435 source:d:\develop\modo.cpp
+	"Modo.h"
+
+1218775435 source:d:\develop\modojuego.cpp
+	"ModoJuego.h"
+
+1218775434 source:d:\develop\modomenu.cpp
+	"ModoMenu.h"
+
+1218775435 source:d:\develop\mouse.cpp
+	"Mouse.h"
+
+1218775435 source:d:\develop\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1218840447 source:d:\develop\nave.cpp
+	"Nave.h"
+
+1218840109 source:d:\develop\navepichi.cpp
+	"NavePichi.h"
+
+1218775434 source:d:\develop\objeto3d.cpp
+	"Objeto3d.h"
+
+1218775434 source:d:\develop\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1218839413 source:d:\develop\opcion.cpp
+	"Opcion.h"
+
+1218775434 source:d:\develop\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1218775435 source:d:\develop\poder.cpp
+	"Poder.h"
+
+1218775435 source:d:\develop\settings.cpp
+	"Settings.h"
+
+1218775434 source:d:\develop\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1218775435 source:d:\develop\sprite.cpp
+	"Sprite.h"
+
+1218839413 source:d:\develop\teclado.cpp
+	"Teclado.h"
+
+1218775435 source:d:\develop\texto2d.cpp
+	"Texto2D.h"
+
+1218775434 source:d:\develop\texto3d.cpp
+	"Texto3D.h"
+
+1218775435 source:d:\develop\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1218775434 source:d:\develop\thread.cpp
+	"Thread.h"
+
+1218775435 source:d:\develop\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1218849048 source:d:\develop\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+
+1218839413 d:\develop\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1218839413 d:\develop\menu.h
+	"Engine.h"
+	"MenuItem.h"
+	<string>
+
+1218839413 d:\develop\menuitem.h
+	"Dibujable.h"
+
+1218839850 source:d:\develop\clientered.cpp
+	"ClienteRed.h"
+
+1218848753 d:\develop\clientered.h
+	"ControladorRed.h"
+	"PaqueteRed.h"
+	<iostream>
+
+1218852065 d:\develop\controladorred.h
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"PaqueteRed.h"
+	<iostream>
+	<list>
+
+1218839413 d:\develop\socket.h
+	<WinSock2.h>
+	<string>
+
+1218839413 source:d:\develop\controladorred.cpp
+	"ControladorRed.h"
+
+1218839413 source:d:\develop\mainmenu3d.cpp
+	"MainMenu3D.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"Objeto3d.h"
+
+1218839413 d:\develop\mainmenu3d.h
+	"Menu.h"
+
+1218839413 source:d:\develop\menu.cpp
+	"Menu.h"
+
+1218839413 source:d:\develop\menuitem.cpp
+	"MenuItem.h"
+
+1218839413 source:d:\develop\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"MainMenu3D.h"
+
+1218848977 source:d:\develop\servidorred.cpp
+	"ServidorRed.h"
+
+1218848156 d:\develop\servidorred.h
+	"ControladorRed.h"
+	"PaqueteRed.h"
+	<iostream>
+
+1218839413 source:d:\develop\socket.cpp
+	"Socket.h"
+	<iostream>
+
+1218847593 d:\develop\paquetered.h
+	"Vector.h"
+	<iostream>
+
+1218847461 source:d:\develop\paquetered.cpp
+	"PaqueteRed.h"
+
+1225849210 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\animable.cpp
+	"Animable.h"
+
+1211937975 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\animable.h
+	<iostream>
+	"MFisica.h"
+
+1226494675 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mfisica.h
+	<vector>
+	<iostream>
+	"SeccionCritica.h"
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+
+1226626275 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\colisionable.h
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1218596647 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\condicionable.h
+
+1218682333 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\vector.h
+	<math.h>
+	<iostream>
+
+1218418026 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1221072207 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+
+1218662426 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1210906407 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\matriz4x4.h
+	"Vector.h"
+
+1210560712 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\esfera.h
+	"Matematicas.h"
+
+1210906398 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1225849210 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1211422663 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1211529083 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1211852906 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1218201433 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1218200441 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1225902887 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1224947657 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\thread.h
+	<windows.h>
+
+1233106830 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1211437578 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1225913716 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1211603580 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1218418182 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1211431887 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1218728854 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1233879364 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\sistemaparticulas.h
+	"Multiobjeto3d.h"
+
+1211738918 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mouse.h
+	"GL.h"
+
+1211420684 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1211742894 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1233874476 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+	"ClienteModoJuego.h"
+
+1221072207 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modo.h
+
+1221072206 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuIntro.h"
+	"Nave.h"
+	"Engine.h"
+	"ControladorRed.h"
+	"Settings.h"
+	"Colisionable.h"
+	"SoundManager.h"
+
+1221072207 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1233106855 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	"Multiobjeto3d.h"
+	<vector>
+	<iostream>
+
+1211884812 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1221072207 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1226371978 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menu.h
+	<string>
+	"Engine.h"
+	"MenuItem.h"
+	"EfectoRotEsc.h"
+
+1233107055 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuitem.h
+	"Dibujable.h"
+	<vector>
+
+1226408765 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\soundmanager.h
+	<string>
+	<map>
+	<vector>
+	"fmod/fmod.h"
+	"fmod/fmod_errors.h"
+	"HashTable.h"
+	"Logger.h"
+
+1218525482 c:\archivos de programa\mingw\include\fmod\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+
+1218525482 c:\archivos de programa\mingw\include\fmod\fmod_codec.h
+
+1218525482 c:\archivos de programa\mingw\include\fmod\fmod_dsp.h
+
+1218525482 c:\archivos de programa\mingw\include\fmod\fmod_errors.h
+	"fmod.h"
+
+1219291125 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1219172254 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\hasheable.h
+
+1233880479 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"CadenaParticulas.h"
+	"FMunicion.h"
+	"Targeteable.h"
+	"FMisil.h"
+	"FElectricidad.h"
+	"FBalaComun.h"
+
+1225885259 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\settings.h
+	<iostream>
+	<string>
+	"SoundManager.h"
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+	"Nave.h"
+
+1226494675 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+	"ServidorRed.h"
+	"Municion.h"
+	"Targeteable.h"
+
+1227376614 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+	"ServidorRed.h"
+	"Targeteable.h"
+
+1226368550 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"ServidorRed.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Municion.h"
+
+1218548564 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1225914625 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\servidorred.h
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+	"PaqueteRed.h"
+
+1226421302 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorred.h
+	"Engine.h"
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+	"ObserversConexion.h"
+	"SeccionCritica.h"
+	<iostream>
+	<list>
+	<map>
+
+1226271078 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\socket.h
+	<WinSock2.h>
+	<string>
+	<stdexcept>
+
+1225056216 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientered.h
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+
+1226271077 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\paquetered.h
+	"Vector.h"
+	"Producto.h"
+	<iostream>
+	<vector>
+
+1226626275 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"SeccionCritica.h"
+
+1226088020 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"ObserversConexion.h"
+	"ProductorConsumidor.h"
+
+1226150486 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\prototiposclientes.h
+	"ControladorRed.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+	"ServidorRed.h"
+
+1233106794 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\orbitaparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1233618417 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1211947246 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1212040693 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1225375568 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmunicion.h
+	"Vector.h"
+	"Nave.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmisil.h
+	<string>
+	<iostream>
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+	"FMunicion.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1226422499 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\condition.h
+	"Condicionable.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+
+1233618775 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\balacomun.cpp
+	"BalaComun.h"
+
+1234914153 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1212846507 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\camara.cpp
+	"Camara.h"
+
+1225056087 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientered.cpp
+	"ClienteRed.h"
+
+1226494675 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\colisionable.cpp
+	"Colisionable.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorclientered.cpp
+	"ControladorClienteRed.h"
+
+1226510715 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+	"Logger.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\controladorred.cpp
+	"ControladorRed.h"
+	"PrototiposClientes.h"
+	"Logger.h"
+
+1226371978 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1218211676 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\dibujable.cpp
+	"Dibujable.h"
+
+1233617210 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\electricidad.cpp
+	"Electricidad.h"
+	"Vector.h"
+	"Objeto3d.h"
+
+1225420078 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\electricidad.h
+	"Vector.h"
+	"Multiobjeto3d.h"
+	"Animable.h"
+	"Objeto3d.h"
+
+1234143005 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\engine.cpp
+	"Engine.h"
+	"ManejadorModelos.h"
+	"Mouse.h"
+	"Teclado.h"
+
+1211949069 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\escena.cpp
+	"Escena.h"
+
+1210549154 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\esfera.cpp
+	"Esfera.h"
+
+1225899232 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\espiral.cpp
+	"Espiral.h"
+
+1218213625 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\explosion.cpp
+	"Explosion.h"
+
+1218653593 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1226416375 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+	"Targeteable.h"
+	"CondTargeteable.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmunicion.cpp
+	"FMunicion.h"
+
+1219291126 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1225375569 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\humo.cpp
+	"Humo.h"
+
+1233104546 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\lensflare.cpp
+	"LensFlare.h"
+
+1211529292 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1226626275 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mfisica.cpp
+	"MFisica.h"
+
+1226271077 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mainmenu3d.cpp
+	"MainMenu3D.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"MenuCreditos.h"
+	"MenuNave.h"
+	"MenuJuego.h"
+	"MenuConfig3D.h"
+	"EfectoRotEsc.h"
+
+1225885259 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mainmenu3d.h
+	"Menu.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\navepichi.h
+	"Nave.h"
+	"ServidorRed.h"
+	"ClienteNavePichi.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\naveghostm.h
+	"Nave.h"
+	"Electricidad.h"
+
+1224978758 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuconfig.h
+	"ModoMenu.h"
+	"MenuSombra.h"
+	"ModoJuego.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1221072207 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menusombra.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"MenuConfig.h"
+	<vector>
+
+1226167035 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuayuda.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1226146726 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menucreditos.h
+	"Menu.h"
+	"MainMenu3D.h"
+
+1226167011 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menunave.h
+	"Menu.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+
+1211603459 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1218660761 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1218660774 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1210906394 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1211937976 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\material.cpp
+	"Material.h"
+
+1211243608 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1233107111 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menu.cpp
+	"Menu.h"
+	"SoundManager.h"
+	"Logger.h"
+	"Teclado.h"
+
+1219190812 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuayuda.cpp
+	"MenuAyuda.h"
+
+1219190813 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuconfig.cpp
+	"MenuConfig.h"
+
+1226371978 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuconfig3d.cpp
+	"MenuConfig3D.h"
+	"MainMenu3D.h"
+	<sstream>
+
+1226371978 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuconfig3d.h
+	"Menu.h"
+	"TextBox.h"
+	"Settings.h"
+
+1233107141 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menucreditos.cpp
+	"MenuCreditos.h"
+	<sstream>
+	"Texto2D.h"
+
+1221072207 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuintro.cpp
+	"MenuIntro.h"
+
+1224978758 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menuitem.cpp
+	"MenuItem.h"
+
+1226292171 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menunave.cpp
+	"MenuNave.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+	"NavePesada.h"
+
+1211994351 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menusombra.cpp
+	"MenuSombra.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\misil.cpp
+	"Misil.h"
+
+1225908548 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modelo.cpp
+	"Modelo.h"
+
+1210905559 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modo.cpp
+	"Modo.h"
+
+1234396088 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modojuego.cpp
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NaveGhostM.H"
+	"NavePesada.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"Teclado.h"
+	"Mouse.h"
+	"Logger.h"
+
+1219190811 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modomenu.cpp
+	"ModoMenu.h"
+	"CtrlJuego.h"
+
+1226408765 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+
+1211739165 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\mouse.cpp
+	"Mouse.h"
+
+1211350898 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1234487220 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\nave.cpp
+	"Nave.h"
+
+1236043509 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\naveghostm.cpp
+	"NaveGhostM.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\navepichi.cpp
+	"NavePichi.h"
+
+1218548564 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\objeto3d.cpp
+	"Objeto3d.h"
+
+1211336809 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1218821248 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\opcion.cpp
+	"Opcion.h"
+
+1233797408 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1226271077 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\paquetered.cpp
+	"PaqueteRed.h"
+	"Logger.h"
+
+1236044339 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\poder.cpp
+	"Poder.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\prototiposclientes.cpp
+	"PrototiposClientes.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+	"ClienteModoJuego.h"
+	"ClienteChat.h"
+	"ClienteNavePesada.h"
+	"ClienteNaveGhost.h"
+	"ClientePoder.h"
+
+1225917542 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\servidorred.cpp
+	"ServidorRed.h"
+	"Logger.h"
+
+1226271078 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\settings.cpp
+	"Settings.h"
+	<windows.h>
+
+1233879876 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\socket.cpp
+	"Socket.h"
+	<iostream>
+	"Logger.h"
+
+1226494675 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\soundmanager.cpp
+	"SoundManager.h"
+	<iostream>
+
+1218201463 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\sprite.cpp
+	"Sprite.h"
+
+1218821248 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\teclado.cpp
+	"Teclado.h"
+
+1211731676 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\texto2d.cpp
+	"Texto2D.h"
+
+1232329432 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\texto3d.cpp
+	"Texto3D.h"
+
+1233616954 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1224948316 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\thread.cpp
+	"Thread.h"
+
+1214416893 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1232330296 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+	"Logger.h"
+	"ServidorChat.h"
+	"ClienteChat.h"
+
+1225559480 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+	"Logger.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\matriz4x4.h
+	"Vector.h"
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\vector.h
+	<math.h>
+	<iostream>
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\esfera.h
+	"Matematicas.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1225317072 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\thread.h
+	<windows.h>
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\sistemaparticulas.h
+	"Dibujable.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mouse.h
+	"GL.h"
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuIntro.h"
+	"Nave.h"
+	"Engine.h"
+	"ControladorRed.h"
+	"Settings.h"
+	"Colisionable.h"
+	"SoundManager.h"
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modo.h
+
+1225632034 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1225680393 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\settings.h
+	<iostream>
+	<string>
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+	"Nave.h"
+
+1225672976 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FElectricidad.h"
+	"FMisil.h"
+	"FBalaComun.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+	"ServidorRed.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\colisionable.h
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\condicionable.h
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mfisica.h
+	<vector>
+	<iostream>
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\animable.h
+	<iostream>
+	"MFisica.h"
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\condition.h
+	"Condicionable.h"
+
+1225489778 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+	"ServidorRed.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"ServidorRed.h"
+	"Nave.h"
+	"Asteroide.h"
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\servidorred.h
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+	"PaqueteRed.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorred.h
+	"Engine.h"
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+	<iostream>
+	<list>
+	<map>
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\socket.h
+	<WinSock2.h>
+	<string>
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientered.h
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\paquetered.h
+	"Vector.h"
+	"Producto.h"
+	<iostream>
+	<vector>
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\hasheable.h
+
+1222472149 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"ProductorConsumidor.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\prototiposclientes.h
+	"ControladorRed.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\orbitaparticulas.h
+	"Animable.h"
+
+1225489778 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1225344204 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fmunicion.h
+	"Vector.h"
+
+1225489778 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\felectricidad.h
+	"FMunicion.h"
+	"Electricidad.h"
+
+1225489778 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\electricidad.h
+	"Vector.h"
+	"Multiobjeto3d.h"
+	"Animable.h"
+	"Objeto3d.h"
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fmisil.h
+	<string>
+	<iostream>
+	"FMunicion.h"
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222472147 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1225680245 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menu.h
+	<string>
+	"Engine.h"
+	"MenuItem.h"
+	"SoundManager.h"
+	"EfectoRotEsc.h"
+
+1225317072 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuitem.h
+	"Dibujable.h"
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\soundmanager.h
+	<string>
+	<map>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"HashTable.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\animable.cpp
+	"Animable.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\balacomun.cpp
+	"BalaComun.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\camara.cpp
+	"Camara.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientered.cpp
+	"ClienteRed.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\colisionable.cpp
+	"Colisionable.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorclientered.cpp
+	"ControladorClienteRed.h"
+
+1225564730 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\controladorred.cpp
+	"ControladorRed.h"
+	"PrototiposClientes.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\dibujable.cpp
+	"Dibujable.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\electricidad.cpp
+	"Electricidad.h"
+	"Vector.h"
+	"Objeto3d.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\engine.cpp
+	"Engine.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\escena.cpp
+	"Escena.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\esfera.cpp
+	"Esfera.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\espiral.cpp
+	"Espiral.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\explosion.cpp
+	"Explosion.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fmunicion.cpp
+	"FMunicion.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1225344204 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\humo.cpp
+	"Humo.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\lensflare.cpp
+	"LensFlare.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1225344204 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mfisica.cpp
+	"MFisica.h"
+
+1225680757 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mainmenu3d.cpp
+	"MainMenu3D.h"
+
+1225680893 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mainmenu3d.h
+	"Menu.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"SoundManager.h"
+	"MenuConfig.h"
+	"MenuAyuda.h"
+	"MenuCreditos.h"
+	"MenuNave.h"
+	"MenuJuego.h"
+	"MenuConfig3D.h"
+	"EfectoRotEsc.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\navepichi.h
+	"Nave.h"
+	"ServidorRed.h"
+
+1225338171 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\naveghostm.h
+	"Nave.h"
+	"Electricidad.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuconfig.h
+	"ModoMenu.h"
+	"MenuSombra.h"
+	"ModoJuego.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222472146 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menusombra.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"MenuConfig.h"
+	<vector>
+
+1222472148 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuayuda.h
+	"ModoMenu.h"
+	"MenuConfig.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222472145 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menucreditos.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"ModoMenu3D.h"
+
+1225564056 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menunave.h
+	"Menu.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\material.cpp
+	"Material.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1225561696 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menu.cpp
+	"Menu.h"
+	"Logger.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuayuda.cpp
+	"MenuAyuda.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuconfig.cpp
+	"MenuConfig.h"
+
+1225676561 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuconfig3d.cpp
+	"MenuConfig3D.h"
+	"MainMenu3D.h"
+
+1225680479 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuconfig3d.h
+	"Menu.h"
+	"TextBox.h"
+	"Settings.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menucreditos.cpp
+	"MenuCreditos.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuintro.cpp
+	"MenuIntro.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menuitem.cpp
+	"MenuItem.h"
+
+1225636907 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menunave.cpp
+	"MenuNave.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+	"NavePesada.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menusombra.cpp
+	"MenuSombra.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\misil.cpp
+	"Misil.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modelo.cpp
+	"Modelo.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modo.cpp
+	"Modo.h"
+
+1225679930 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modojuego.cpp
+	"ModoJuego.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modomenu.cpp
+	"ModoMenu.h"
+	"CtrlJuego.h"
+
+1225522396 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"CtrlJuego.h"
+	"SoundManager.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"MenuRed.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\mouse.cpp
+	"Mouse.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1225672975 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\nave.cpp
+	"Nave.h"
+
+1225672976 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\naveghostm.cpp
+	"NaveGhostM.h"
+
+1225672975 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\navepichi.cpp
+	"NavePichi.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\objeto3d.cpp
+	"Objeto3d.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\opcion.cpp
+	"Opcion.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\paquetered.cpp
+	"PaqueteRed.h"
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\poder.cpp
+	"Poder.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\prototiposclientes.cpp
+	"PrototiposClientes.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\servidorred.cpp
+	"ServidorRed.h"
+
+1225679866 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\settings.cpp
+	"Settings.h"
+	<windows.h>
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\socket.cpp
+	"Socket.h"
+	<iostream>
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\soundmanager.cpp
+	"SoundManager.h"
+	<iostream>
+
+1222472148 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\sprite.cpp
+	"Sprite.h"
+
+1222472145 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\teclado.cpp
+	"Teclado.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\texto2d.cpp
+	"Texto2D.h"
+
+1222472146 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\texto3d.cpp
+	"Texto3D.h"
+
+1222472149 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\thread.cpp
+	"Thread.h"
+
+1222472147 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1225489778 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+
+1225562413 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menujuego.h
+	"CtrlJuego.h"
+	"Menu.h"
+	"EfectoRotEsc.h"
+	"MainMenu3D.h"
+
+1225680031 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menujuego.cpp
+	"MenuJuego.h"
+	"MenuRed.h"
+
+1226494675 .h"
+
+1222633006 source:c:\t-asteroids\animable.cpp
+	"Animable.h"
+
+1222633006 c:\t-asteroids\animable.h
+	<iostream>
+	"MFisica.h"
+
+1222633006 c:\t-asteroids\mfisica.h
+	<vector>
+	<iostream>
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+
+1222633006 c:\t-asteroids\colisionable.h
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1222633004 c:\t-asteroids\condicionable.h
+
+1222633006 c:\t-asteroids\vector.h
+	<math.h>
+	<iostream>
+
+1222633006 c:\t-asteroids\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1222633004 c:\t-asteroids\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+
+1222633006 c:\t-asteroids\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1222633006 c:\t-asteroids\matriz4x4.h
+	"Vector.h"
+
+1222633006 c:\t-asteroids\esfera.h
+	"Matematicas.h"
+
+1222633006 c:\t-asteroids\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1222633004 c:\t-asteroids\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1222633006 c:\t-asteroids\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1222633006 c:\t-asteroids\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1222633006 c:\t-asteroids\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1222633006 c:\t-asteroids\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222633004 c:\t-asteroids\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1222633006 c:\t-asteroids\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1222633006 c:\t-asteroids\thread.h
+	<windows.h>
+
+1222633006 c:\t-asteroids\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1222633004 c:\t-asteroids\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1222633006 c:\t-asteroids\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1222633006 c:\t-asteroids\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1222633006 c:\t-asteroids\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1222633004 c:\t-asteroids\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222633006 c:\t-asteroids\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1222633006 c:\t-asteroids\sistemaparticulas.h
+	"Dibujable.h"
+
+1222633006 c:\t-asteroids\mouse.h
+	"GL.h"
+
+1222633006 c:\t-asteroids\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1222633006 c:\t-asteroids\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1222633006 c:\t-asteroids\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+
+1222633006 c:\t-asteroids\modo.h
+
+1222633004 c:\t-asteroids\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuIntro.h"
+	"Nave.h"
+	"Engine.h"
+	"ControladorRed.h"
+	"Settings.h"
+	"Colisionable.h"
+	"SoundManager.h"
+
+1222633004 c:\t-asteroids\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222633006 c:\t-asteroids\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+
+1222633006 c:\t-asteroids\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1222633006 c:\t-asteroids\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1222633004 c:\t-asteroids\menu.h
+	<string>
+	"Engine.h"
+	"MenuItem.h"
+	"SoundManager.h"
+
+1222633006 c:\t-asteroids\menuitem.h
+	"Dibujable.h"
+
+1222633004 c:\t-asteroids\soundmanager.h
+	<string>
+	<map>
+	<fmod/fmod.h>
+	<fmod/fmod_errors.h>
+	"HashTable.h"
+
+1222633004 c:\t-asteroids\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1222633004 c:\t-asteroids\hasheable.h
+
+1222633006 c:\t-asteroids\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FElectricidad.h"
+	"FMisil.h"
+	"FBalaComun.h"
+
+1222633006 c:\t-asteroids\settings.h
+	<iostream>
+	<string>
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+	"Nave.h"
+
+1222633006 c:\t-asteroids\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+
+1222633004 c:\t-asteroids\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+
+1222633006 c:\t-asteroids\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"ServidorRed.h"
+	"Nave.h"
+	"Asteroide.h"
+
+1222633006 c:\t-asteroids\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1222633004 c:\t-asteroids\servidorred.h
+	"ControladorRed.h"
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+
+1222633006 c:\t-asteroids\controladorred.h
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+	"PrototiposClientes.h"
+	<iostream>
+	<list>
+	<map>
+
+1222633006 c:\t-asteroids\socket.h
+	<WinSock2.h>
+	<string>
+
+1222633006 c:\t-asteroids\clientered.h
+	"ControladorRed.h"
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+
+1222633004 c:\t-asteroids\paquetered.h
+	"Vector.h"
+	<iostream>
+	<vector>
+
+1222633006 c:\t-asteroids\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+
+1222633006 c:\t-asteroids\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+
+1222639612 c:\t-asteroids\prototiposclientes.h
+	"ControladorRed.h"
+	"ClienteBalaComun.h"
+
+1222633004 c:\t-asteroids\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+
+1222633004 c:\t-asteroids\orbitaparticulas.h
+	"Animable.h"
+
+1222633006 c:\t-asteroids\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1222633006 c:\t-asteroids\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1222633006 c:\t-asteroids\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1222633004 c:\t-asteroids\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1222633006 c:\t-asteroids\fmunicion.h
+	"Vector.h"
+
+1222633004 c:\t-asteroids\felectricidad.h
+	"Fmunicion.h"
+	"FMunicion.h"
+	"Electricidad.h"
+
+1222633006 c:\t-asteroids\electricidad.h
+	"Vector.h"
+	"Multiobjeto3d.h"
+	"Animable.h"
+	"Objeto3d.h"
+
+1222633004 c:\t-asteroids\fmisil.h
+	<string>
+	<iostream>
+	"FMunicion.h"
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+
+1222633006 c:\t-asteroids\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1222633006 c:\t-asteroids\condition.h
+	"Condicionable.h"
+
+1222633004 source:c:\t-asteroids\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+
+1222633006 source:c:\t-asteroids\balacomun.cpp
+	"BalaComun.h"
+
+1222633004 source:c:\t-asteroids\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1222633006 source:c:\t-asteroids\camara.cpp
+	"Camara.h"
+
+1222633006 source:c:\t-asteroids\clientered.cpp
+	"ClienteRed.h"
+
+1222633006 source:c:\t-asteroids\colisionable.cpp
+	"Colisionable.h"
+
+1222633006 source:c:\t-asteroids\controladorclientered.cpp
+	"ControladorClienteRed.h"
+
+1222641208 source:c:\t-asteroids\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+
+1222643658 source:c:\t-asteroids\controladorred.cpp
+	"ControladorRed.h"
+
+1222633004 source:c:\t-asteroids\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1222633006 source:c:\t-asteroids\dibujable.cpp
+	"Dibujable.h"
+
+1222633006 source:c:\t-asteroids\engine.cpp
+	"Engine.h"
+
+1222633004 source:c:\t-asteroids\escena.cpp
+	"Escena.h"
+
+1222633004 source:c:\t-asteroids\esfera.cpp
+	"Esfera.h"
+
+1222633006 source:c:\t-asteroids\espiral.cpp
+	"Espiral.h"
+
+1222633006 source:c:\t-asteroids\explosion.cpp
+	"Explosion.h"
+
+1222633004 source:c:\t-asteroids\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1222633006 source:c:\t-asteroids\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+
+1222633004 source:c:\t-asteroids\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+
+1222633004 source:c:\t-asteroids\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+
+1222633006 source:c:\t-asteroids\fmunicion.cpp
+	"FMunicion.h"
+
+1222633006 source:c:\t-asteroids\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1222633006 source:c:\t-asteroids\humo.cpp
+	"Humo.h"
+
+1222633006 source:c:\t-asteroids\lensflare.cpp
+	"LensFlare.h"
+
+1222633006 source:c:\t-asteroids\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1222633006 source:c:\t-asteroids\mfisica.cpp
+	"MFisica.h"
+
+1222633004 source:c:\t-asteroids\mainmenu3d.cpp
+	"MainMenu3D.h"
+
+1222633006 c:\t-asteroids\mainmenu3d.h
+	"Menu.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"SoundManager.h"
+	"MenuConfig.h"
+	"MenuAyuda.h"
+	"MenuCreditos.h"
+	"MenuNave.h"
+
+1222633004 c:\t-asteroids\navepichi.h
+	"Nave.h"
+
+1222633004 c:\t-asteroids\naveghostm.h
+	"Nave.h"
+
+1222633006 c:\t-asteroids\menuconfig.h
+	"ModoMenu.h"
+	"MenuSombra.h"
+	"ModoJuego.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222633004 c:\t-asteroids\menusombra.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"MenuConfig.h"
+	<vector>
+
+1222633006 c:\t-asteroids\menuayuda.h
+	"ModoMenu.h"
+	"MenuConfig.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222633004 c:\t-asteroids\menucreditos.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"ModoMenu3D.h"
+
+1222633006 c:\t-asteroids\menunave.h
+	"Menu.h"
+
+1222633004 source:c:\t-asteroids\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1222633006 source:c:\t-asteroids\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1222633006 source:c:\t-asteroids\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1222633006 source:c:\t-asteroids\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1222633006 source:c:\t-asteroids\material.cpp
+	"Material.h"
+
+1222633006 source:c:\t-asteroids\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1222633006 source:c:\t-asteroids\menu.cpp
+	"Menu.h"
+
+1222633004 source:c:\t-asteroids\menuayuda.cpp
+	"MenuAyuda.h"
+
+1222633006 source:c:\t-asteroids\menuconfig.cpp
+	"MenuConfig.h"
+
+1222633006 source:c:\t-asteroids\menuconfig3d.cpp
+	"MenuConfig3D.h"
+
+1222633004 c:\t-asteroids\menuconfig3d.h
+	"Menu.h"
+
+1222633006 source:c:\t-asteroids\menucreditos.cpp
+	"MenuCreditos.h"
+
+1222633006 source:c:\t-asteroids\menuintro.cpp
+	"MenuIntro.h"
+
+1222633006 source:c:\t-asteroids\menuitem.cpp
+	"MenuItem.h"
+
+1222633006 source:c:\t-asteroids\menunave.cpp
+	"MenuNave.h"
+	"MainMenu3D.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+
+1222633006 source:c:\t-asteroids\menusombra.cpp
+	"MenuSombra.h"
+
+1222633004 source:c:\t-asteroids\misil.cpp
+	"Misil.h"
+
+1222633006 source:c:\t-asteroids\modelo.cpp
+	"Modelo.h"
+
+1222633006 source:c:\t-asteroids\modo.cpp
+	"Modo.h"
+
+1222633006 source:c:\t-asteroids\modojuego.cpp
+	"ModoJuego.h"
+
+1222633004 source:c:\t-asteroids\modomenu.cpp
+	"ModoMenu.h"
+	"CtrlJuego.h"
+
+1222633006 source:c:\t-asteroids\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"MainMenu3D.h"
+	"CtrlJuego.h"
+	"SoundManager.h"
+
+1222633006 source:c:\t-asteroids\mouse.cpp
+	"Mouse.h"
+
+1222633006 source:c:\t-asteroids\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1222633004 source:c:\t-asteroids\nave.cpp
+	"Nave.h"
+
+1222633006 source:c:\t-asteroids\naveghostm.cpp
+	"NaveGhostM.h"
+
+1222642864 source:c:\t-asteroids\navepichi.cpp
+	"NavePichi.h"
+
+1222633006 source:c:\t-asteroids\objeto3d.cpp
+	"Objeto3d.h"
+
+1222633006 source:c:\t-asteroids\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1222633006 source:c:\t-asteroids\opcion.cpp
+	"Opcion.h"
+
+1222633006 source:c:\t-asteroids\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1222633004 source:c:\t-asteroids\paquetered.cpp
+	"PaqueteRed.h"
+
+1222633006 source:c:\t-asteroids\poder.cpp
+	"Poder.h"
+
+1222639536 source:c:\t-asteroids\prototiposclientes.cpp
+	"PrototiposClientes.h"
+
+1222642250 source:c:\t-asteroids\servidorred.cpp
+	"ServidorRed.h"
+
+1222633006 source:c:\t-asteroids\settings.cpp
+	"Settings.h"
+
+1222633006 source:c:\t-asteroids\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1222633004 source:c:\t-asteroids\socket.cpp
+	"Socket.h"
+	<iostream>
+
+1222633006 source:c:\t-asteroids\soundmanager.cpp
+	"SoundManager.h"
+	<iostream>
+
+1222633006 source:c:\t-asteroids\sprite.cpp
+	"Sprite.h"
+
+1222633004 source:c:\t-asteroids\teclado.cpp
+	"Teclado.h"
+
+1222633006 source:c:\t-asteroids\texto2d.cpp
+	"Texto2D.h"
+
+1222633004 source:c:\t-asteroids\texto3d.cpp
+	"Texto3D.h"
+
+1222633006 source:c:\t-asteroids\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1222633006 source:c:\t-asteroids\thread.cpp
+	"Thread.h"
+
+1222633006 source:c:\t-asteroids\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1222640604 source:c:\t-asteroids\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+
+1222635816 source:c:\t-asteroids\electricidad.cpp
+	"Electricidad.h"
+	"Vector.h"
+	"Objeto3d.h"
+
+1222639334 c:\t-asteroids\clientebalacomun.h
+	"ClienteRed.h"
+
+1222639628 source:c:\t-asteroids\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1222639628 4
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientebalacomun.h
+	"ClienteRed.h"
+	"BalaComun.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\producto.h
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\productorconsumidor.h
+	"SeccionCritica.h"
+	"Evento.h"
+	"Producto.h"
+	<queue>
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\seccioncritica.h
+	<windows.h>
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\evento.h
+	<windows.h>
+	<iostream>
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clienteasteroide.cpp
+	"ClienteAsteroide.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clienteasteroide.h
+	"ClienteRed.h"
+	"Asteroide.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientemisil.cpp
+	"ClienteMisil.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientemisil.h
+	"ClienteRed.h"
+	"Misil.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientenavepichi.cpp
+	"ClienteNavePichi.h"
+	"Logger.h"
+
+1225317073 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\clientenavepichi.h
+	"ClienteRed.h"
+	"NavePichi.h"
+
+1225497506 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\logger.h
+	<windows.h>
+	<iostream>
+	<fstream>
+
+1225641531 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\efectorotesc.cpp
+	"EfectoRotEsc.h"
+
+1225673214 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\efectorotesc.h
+	"Dibujable.h"
+	"Texto3D.h"
+	"Matematicas.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\evento.cpp
+	"Evento.h"
+
+1225632373 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\navepesada.h
+	"Nave.h"
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FElectricidad.h"
+	"FEmbestida.h"
+
+1225672976 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\navepesada.cpp
+	"NavePesada.h"
+	"Logger.h"
+	"Material.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\productorconsumidor.cpp
+	"ProductorConsumidor.h"
+
+1225344232 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\logger.cpp
+	"Logger.h"
+	<sstream>
+	<string>
+
+1225626356 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menured.cpp
+	"MenuRed.h"
+
+1225565671 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\menured.h
+	"Menu.h"
+	"MainMenu3D.h"
+	"Luz.h"
+	"TextBox.h"
+	"Logger.h"
+	"CtrlJuego.h"
+
+1225317073 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\seccioncritica.cpp
+	"SeccionCritica.h"
+
+1225674870 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\textbox.cpp
+	"TextBox.h"
+	"MenuRed.h"
+	"Teclado.h"
+	"Mouse.h"
+
+1225674240 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\textbox.h
+	"Escena.h"
+	"Texto3D.h"
+	"Sprite.h"
+	"Logger.h"
+	<vector>
+
+1224940731 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\producto.h
+
+1225306871 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\productorconsumidor.h
+	"SeccionCritica.h"
+	"Evento.h"
+	"Producto.h"
+	<queue>
+
+1224941386 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\seccioncritica.h
+	<windows.h>
+
+1225907695 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\evento.h
+	<windows.h>
+	<iostream>
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\felectricidad.h
+	"FMunicion.h"
+	"Electricidad.h"
+
+1226510091 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clienteasteroide.cpp
+	"ClienteAsteroide.h"
+	"Logger.h"
+
+1225304597 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clienteasteroide.h
+	"ClienteRed.h"
+	"Asteroide.h"
+
+1226496872 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1225293766 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientebalacomun.h
+	"ClienteRed.h"
+	"BalaComun.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientemisil.cpp
+	"ClienteMisil.h"
+
+1225301280 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientemisil.h
+	"ClienteRed.h"
+	"Misil.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenavepichi.cpp
+	"ClienteNavePichi.h"
+	"Logger.h"
+
+1225295713 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenavepichi.h
+	"ClienteRed.h"
+	"NavePichi.h"
+
+1226271078 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\logger.h
+	<windows.h>
+	<iostream>
+	<fstream>
+
+1226271078 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\efectorotesc.cpp
+	"EfectoRotEsc.h"
+
+1225765217 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\efectorotesc.h
+	"Dibujable.h"
+	"Texto3D.h"
+	"Matematicas.h"
+
+1225907724 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\evento.cpp
+	"Evento.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"NaveGhostM.h"
+
+1225765217 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menujuego.h
+	"CtrlJuego.h"
+	"Menu.h"
+	"EfectoRotEsc.h"
+	"MainMenu3D.h"
+
+1225308232 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\productorconsumidor.cpp
+	"ProductorConsumidor.h"
+
+1224939979 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\seccioncritica.cpp
+	"SeccionCritica.h"
+
+1226271078 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\logger.cpp
+	"Logger.h"
+	<sstream>
+	<string>
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menujuego.cpp
+	"MenuJuego.h"
+	"MenuRed.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\navepesada.h
+	"Nave.h"
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"BalaComun.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"FElectricidad.h"
+	"FEmbestida.h"
+
+1226515252 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menured.cpp
+	"MenuRed.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Logger.h"
+
+1233107181 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\menured.h
+	"Menu.h"
+	"Luz.h"
+	"TextBox.h"
+	"ControladorRed.h"
+	"Evento.h"
+	"Texto2D.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\navepesada.cpp
+	"NavePesada.h"
+	"Logger.h"
+	"Material.h"
+
+1226146726 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\textbox.cpp
+	"TextBox.h"
+	"MenuRed.h"
+	"Teclado.h"
+	"Mouse.h"
+
+1226009051 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\textbox.h
+	"Escena.h"
+	"Texto3D.h"
+	"Sprite.h"
+	"Logger.h"
+	<vector>
+
+1225448187 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\embestida.cpp
+	"Embestida.h"
+	"Nave.h"
+	"ModoJuego.h"
+
+1225765217 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\embestida.h
+	"Colisionable.h"
+	"Vector.h"
+	"Sprite.h"
+	"Objeto3d.h"
+
+1225393295 h"
+
+1225751468 13
+	"Animable.h"
+
+1225765217 
+
+1222744373 e:\develop\asteroids\asteroidsiiid\matriz4x4.h
+	"Vector.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\esfera.h
+	"Matematicas.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1225763108 e:\develop\asteroids\asteroidsiiid\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1222744372 e:\develop\asteroids\asteroidsiiid\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1222744373 e:\develop\asteroids\asteroidsiiid\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1222744373 e:\develop\asteroids\asteroidsiiid\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1225928466 e:\develop\asteroids\asteroidsiiid\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1224956384 e:\develop\asteroids\asteroidsiiid\thread.h
+	<windows.h>
+
+1223169998 e:\develop\asteroids\asteroidsiiid\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1130458202 c:\archivos de programa\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1222744371 e:\develop\asteroids\asteroidsiiid\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1225928466 e:\develop\asteroids\asteroidsiiid\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1130458202 c:\archivos de programa\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1130458203 c:\archivos de programa\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1222744372 e:\develop\asteroids\asteroidsiiid\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1222744371 e:\develop\asteroids\asteroidsiiid\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1222744373 e:\develop\asteroids\asteroidsiiid\sistemaparticulas.h
+	"Dibujable.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\mouse.h
+	"GL.h"
+
+1222744373 e:\develop\asteroids\asteroidsiiid\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1222744372 e:\develop\asteroids\asteroidsiiid\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+	"ClienteModoJuego.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\modo.h
+
+1222744371 e:\develop\asteroids\asteroidsiiid\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuIntro.h"
+	"Nave.h"
+	"Engine.h"
+	"ControladorRed.h"
+	"Settings.h"
+	"Colisionable.h"
+	"SoundManager.h"
+
+1226371484 e:\develop\asteroids\asteroidsiiid\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1222744373 e:\develop\asteroids\asteroidsiiid\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+
+1222744372 e:\develop\asteroids\asteroidsiiid\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1222744372 e:\develop\asteroids\asteroidsiiid\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1226370458 e:\develop\asteroids\asteroidsiiid\menu.h
+	<string>
+	"Engine.h"
+	"MenuItem.h"
+	"EfectoRotEsc.h"
+
+1224542432 e:\develop\asteroids\asteroidsiiid\menuitem.h
+	"Dibujable.h"
+
+1225751468 e:\develop\asteroids\asteroidsiiid\efectorotesc.h
+	"Dibujable.h"
+	"Texto3D.h"
+	"Matematicas.h"
+
+1226522358 e:\develop\asteroids\asteroidsiiid\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FMunicion.h"
+	"Targeteable.h"
+	"FMisil.h"
+	"FElectricidad.h"
+	"FBalaComun.h"
+
+1225882277 e:\develop\asteroids\asteroidsiiid\settings.h
+	<iostream>
+	<string>
+	"SoundManager.h"
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+	"Nave.h"
+
+1226400270 e:\develop\asteroids\asteroidsiiid\soundmanager.h
+	<string>
+	<map>
+	<vector>
+	"fmod/fmod.h"
+	"fmod/fmod_errors.h"
+	"HashTable.h"
+	"Logger.h"
+
+1226267839 e:\develop\asteroids\asteroidsiiid\fmod\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_codec.h"
+	"fmod_dsp.h"
+
+1226267839 e:\develop\asteroids\asteroidsiiid\fmod\fmod_codec.h
+
+1226267839 e:\develop\asteroids\asteroidsiiid\fmod\fmod_dsp.h
+
+1226267839 e:\develop\asteroids\asteroidsiiid\fmod\fmod_errors.h
+	"fmod.h"
+	"fmod.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1222744371 e:\develop\asteroids\asteroidsiiid\hasheable.h
+
+1226267860 e:\develop\asteroids\asteroidsiiid\logger.h
+	<windows.h>
+	<iostream>
+	<fstream>
+
+1226521051 e:\develop\asteroids\asteroidsiiid\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+	"ServidorRed.h"
+	"Municion.h"
+	"Targeteable.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+	"ServidorRed.h"
+	"Targeteable.h"
+
+1226364917 e:\develop\asteroids\asteroidsiiid\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"ServidorRed.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Municion.h"
+
+1222744373 e:\develop\asteroids\asteroidsiiid\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1225928466 e:\develop\asteroids\asteroidsiiid\servidorred.h
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+	"PaqueteRed.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\controladorred.h
+	"Engine.h"
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+	"ObserversConexion.h"
+	"SeccionCritica.h"
+	<iostream>
+	<list>
+	<map>
+
+1226267860 e:\develop\asteroids\asteroidsiiid\socket.h
+	<WinSock2.h>
+	<string>
+	<stdexcept>
+
+1225168760 e:\develop\asteroids\asteroidsiiid\clientered.h
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+
+1226267860 e:\develop\asteroids\asteroidsiiid\paquetered.h
+	"Vector.h"
+	"Producto.h"
+	<iostream>
+	<vector>
+
+1224956384 e:\develop\asteroids\asteroidsiiid\producto.h
+
+1226198308 e:\develop\asteroids\asteroidsiiid\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"SeccionCritica.h"
+
+1226030430 e:\develop\asteroids\asteroidsiiid\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"ObserversConexion.h"
+	"ProductorConsumidor.h"
+
+1226031054 e:\develop\asteroids\asteroidsiiid\observersconexion.h
+	<iostream>
+	<string>
+	<set>
+	<iostream>
+	<string>
+	<set>
+
+1225329475 e:\develop\asteroids\asteroidsiiid\productorconsumidor.h
+	"SeccionCritica.h"
+	"Evento.h"
+	"Producto.h"
+	<queue>
+
+1225928466 e:\develop\asteroids\asteroidsiiid\evento.h
+	<windows.h>
+	<iostream>
+
+1226521051 e:\develop\asteroids\asteroidsiiid\municion.h
+	"Nave.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+
+1222744371 e:\develop\asteroids\asteroidsiiid\orbitaparticulas.h
+	"Animable.h"
+
+1225402503 e:\develop\asteroids\asteroidsiiid\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1222744372 e:\develop\asteroids\asteroidsiiid\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\targeteable.h
+	"Vector.h"
+
+1225402503 e:\develop\asteroids\asteroidsiiid\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1226364917 e:\develop\asteroids\asteroidsiiid\fmunicion.h
+	"Vector.h"
+	"Nave.h"
+
+1226364917 e:\develop\asteroids\asteroidsiiid\fmisil.h
+	<string>
+	<iostream>
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+	"FMunicion.h"
+
+1226364917 e:\develop\asteroids\asteroidsiiid\felectricidad.h
+	"FMunicion.h"
+	"Electricidad.h"
+
+1225488734 e:\develop\asteroids\asteroidsiiid\electricidad.h
+	"Vector.h"
+	"Multiobjeto3d.h"
+	"Animable.h"
+	"Objeto3d.h"
+
+1226364917 e:\develop\asteroids\asteroidsiiid\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1226198308 e:\develop\asteroids\asteroidsiiid\clientemodojuego.h
+	"ClienteRed.h"
+	"ClienteRed.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\condition.h
+	"Condicionable.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\balacomun.cpp
+	"BalaComun.h"
+
+1225402503 source:e:\develop\asteroids\asteroidsiiid\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1222744373 source:e:\develop\asteroids\asteroidsiiid\camara.cpp
+	"Camara.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\clienteasteroide.cpp
+	"ClienteAsteroide.h"
+	"Logger.h"
+
+1225329475 e:\develop\asteroids\asteroidsiiid\clienteasteroide.h
+	"ClienteRed.h"
+	"Asteroide.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1225329475 e:\develop\asteroids\asteroidsiiid\clientebalacomun.h
+	"ClienteRed.h"
+	"BalaComun.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\clientechat.cpp
+	"ClienteChat.h"
+	"ServidorChat.h"
+
+1226267860 e:\develop\asteroids\asteroidsiiid\clientechat.h
+	"ClienteRed.h"
+
+1226533757 source:e:\develop\asteroids\asteroidsiiid\clientemisil.cpp
+	"ClienteMisil.h"
+
+1225329475 e:\develop\asteroids\asteroidsiiid\clientemisil.h
+	"ClienteRed.h"
+	"Misil.h"
+
+1226198308 source:e:\develop\asteroids\asteroidsiiid\clientemodojuego.cpp
+	"ClienteModoJuego.h"
+	"ModoJuego.h"
+	"ClienteModoJuego.h"
+	"ModoJuego.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\clientenavepesada.cpp
+	"ClienteNavePesada.h"
+	"NavePesada.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\clientenavepesada.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1226522871 e:\develop\asteroids\asteroidsiiid\navepesada.h
+	"Nave.h"
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"BalaComun.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"FElectricidad.h"
+	"FEmbestida.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\menured.cpp
+	"MenuRed.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Logger.h"
+	"MenuRed.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Logger.h"
+
+1226282575 e:\develop\asteroids\asteroidsiiid\menured.h
+	"Menu.h"
+	"Luz.h"
+	"TextBox.h"
+	"ControladorRed.h"
+	"Evento.h"
+	"Menu.h"
+	"Luz.h"
+	"TextBox.h"
+	"ControladorRed.h"
+	"Evento.h"
+
+1226535241 source:e:\develop\asteroids\asteroidsiiid\misil.cpp
+	"Misil.h"
+	"Misil.h"
+
+1226528535 source:e:\develop\asteroids\asteroidsiiid\modojuego.cpp
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NaveGhostM.H"
+	"NavePesada.h"
+	"Logger.h"
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NaveGhostM.H"
+	"NavePesada.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"Logger.h"
+
+1226531241 source:e:\develop\asteroids\asteroidsiiid\nave.cpp
+	"Nave.h"
+	"Nave.h"
+
+1226522683 source:e:\develop\asteroids\asteroidsiiid\naveghostm.cpp
+	"NaveGhostM.h"
+	"NaveGhostM.h"
+
+1226522756 source:e:\develop\asteroids\asteroidsiiid\navepesada.cpp
+	"NavePesada.h"
+	"Logger.h"
+	"Material.h"
+	"NavePesada.h"
+	"Logger.h"
+	"Material.h"
+
+1226522831 source:e:\develop\asteroids\asteroidsiiid\navepichi.cpp
+	"NavePichi.h"
+	"NavePichi.h"
+
+1225329475 source:e:\develop\asteroids\asteroidsiiid\productorconsumidor.cpp
+	"ProductorConsumidor.h"
+	"ProductorConsumidor.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\prototiposclientes.cpp
+	"PrototiposClientes.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+	"ClienteModoJuego.h"
+	"ClienteChat.h"
+	"PrototiposClientes.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+	"ClienteModoJuego.h"
+	"ClienteChat.h"
+
+1226106222 source:e:\develop\asteroids\asteroidsiiid\textbox.cpp
+	"TextBox.h"
+	"MenuRed.h"
+	"Teclado.h"
+	"Mouse.h"
+	"TextBox.h"
+	"MenuRed.h"
+	"Teclado.h"
+	"Mouse.h"
+
+1225931653 e:\develop\asteroids\asteroidsiiid\textbox.h
+	"Escena.h"
+	"Texto3D.h"
+	"Sprite.h"
+	"Logger.h"
+	<vector>
+	"Escena.h"
+	"Texto3D.h"
+	"Sprite.h"
+	"Logger.h"
+	<vector>
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+	"Logger.h"
+	"ServidorChat.h"
+	"ClienteChat.h"
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+	"Logger.h"
+
+1225402503 5
+
+1225632373 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\embestida.cpp
+	"Embestida.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+
+1225632373 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\embestida.h
+	"Colisionable.h"
+	"Vector.h"
+	"Sprite.h"
+	"Objeto3d.h"
+
+1225632373 c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fembestida.h
+	"FMunicion.h"
+	"Embestida.h"
+	"Objeto3d.h"
+	"Vector.h"
+
+1225632373 source:c:\documents and settings\juan.tecnolin-2b4a24\escritorio\develop\asteroids\asteroidsiiid\fembestida.cpp
+	"FEmbestida.h"
+	"Nave.h"
+	"ModoJuego.h"
+
+1225632373 10
+
+1226626275 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fembestida.h
+	"FMunicion.h"
+
+1225751468 e:\develop\asteroids\asteroidsiiid\fembestida.h
+	"FMunicion.h"
+	"Embestida.h"
+	"Objeto3d.h"
+	"Vector.h"
+
+1226031173 source:e:\develop\asteroids\asteroidsiiid\observersconexion.cpp
+	"ObserversConexion.h"
+	"ObserversConexion.h"
+
+1226626275 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\observersconexion.h
+	<iostream>
+	<string>
+	<set>
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\observersconexion.cpp
+	"ObserversConexion.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientemodojuego.cpp
+	"ClienteModoJuego.h"
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NavePesada.h"
+	"NaveGhostM.h"
+
+1226149740 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientemodojuego.h
+	"ClienteRed.h"
+
+1226149740 d.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\animable.cpp
+	"Animable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\animable.h
+	<iostream>
+	"MFisica.h"
+	<iostream>
+	"MFisica.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\mfisica.h
+	<vector>
+	<iostream>
+	"SeccionCritica.h"
+	<vector>
+	<iostream>
+	"SeccionCritica.h"
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+	"Condition.h"
+
+1226253604 itica.h"
+
+1225751468 e:\develop\asteroids\asteroidsiiid\embestida.h
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\clientenavepichi.cpp
+	"ClienteNavePichi.h"
+	"Logger.h"
+
+1225329475 e:\develop\asteroids\asteroidsiiid\clientenavepichi.h
+	"ClienteRed.h"
+	"NavePichi.h"
+
+1226522854 e:\develop\asteroids\asteroidsiiid\navepichi.h
+	"Nave.h"
+	"ServidorRed.h"
+	"ClienteNavePichi.h"
+
+1225168760 source:e:\develop\asteroids\asteroidsiiid\clientered.cpp
+	"ClienteRed.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\colisionable.cpp
+	"Colisionable.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\condtargeteable.cpp
+	"CondTargeteable.h"
+	"Targeteable.h"
+
+1226521051 e:\develop\asteroids\asteroidsiiid\condtargeteable.h
+	"Condition.h"
+	"Nave.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\controladorclientered.cpp
+	"ControladorClienteRed.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+	"Logger.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\controladorred.cpp
+	"ControladorRed.h"
+	"PrototiposClientes.h"
+	"Logger.h"
+
+1226198308 e:\develop\asteroids\asteroidsiiid\prototiposclientes.h
+	"ControladorRed.h"
+
+1226370561 source:e:\develop\asteroids\asteroidsiiid\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1222744373 source:e:\develop\asteroids\asteroidsiiid\dibujable.cpp
+	"Dibujable.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\efectorotesc.cpp
+	"EfectoRotEsc.h"
+
+1225488734 source:e:\develop\asteroids\asteroidsiiid\electricidad.cpp
+	"Electricidad.h"
+	"Vector.h"
+	"Objeto3d.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\engine.cpp
+	"Engine.h"
+
+1222744371 source:e:\develop\asteroids\asteroidsiiid\escena.cpp
+	"Escena.h"
+
+1222744371 source:e:\develop\asteroids\asteroidsiiid\esfera.cpp
+	"Esfera.h"
+
+1225928466 source:e:\develop\asteroids\asteroidsiiid\espiral.cpp
+	"Espiral.h"
+
+1225928466 source:e:\develop\asteroids\asteroidsiiid\evento.cpp
+	"Evento.h"
+
+1222744373 source:e:\develop\asteroids\asteroidsiiid\explosion.cpp
+	"Explosion.h"
+
+1222744371 source:e:\develop\asteroids\asteroidsiiid\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+	"Targeteable.h"
+	"CondTargeteable.h"
+
+1226364917 source:e:\develop\asteroids\asteroidsiiid\fmunicion.cpp
+	"FMunicion.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1225402503 source:e:\develop\asteroids\asteroidsiiid\humo.cpp
+	"Humo.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\lensflare.cpp
+	"LensFlare.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\logger.cpp
+	"Logger.h"
+	<sstream>
+	<string>
+
+1222744373 source:e:\develop\asteroids\asteroidsiiid\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\mfisica.cpp
+	"MFisica.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\mainmenu3d.cpp
+	"MainMenu3D.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"MenuCreditos.h"
+	"MenuNave.h"
+	"MenuJuego.h"
+	"MenuConfig3D.h"
+	"EfectoRotEsc.h"
+
+1226272142 e:\develop\asteroids\asteroidsiiid\mainmenu3d.h
+	"Menu.h"
+
+1226115174 e:\develop\asteroids\asteroidsiiid\menucreditos.h
+	"Menu.h"
+	"MainMenu3D.h"
+
+1226163092 e:\develop\asteroids\asteroidsiiid\menunave.h
+	"Menu.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+
+1225579036 e:\develop\asteroids\asteroidsiiid\menujuego.h
+	"CtrlJuego.h"
+	"Menu.h"
+	"EfectoRotEsc.h"
+	"MainMenu3D.h"
+
+1226367995 e:\develop\asteroids\asteroidsiiid\menuconfig3d.h
+	"Menu.h"
+	"TextBox.h"
+	"Settings.h"
+
+1222744371 source:e:\develop\asteroids\asteroidsiiid\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\material.cpp
+	"Material.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\menu.cpp
+	"Menu.h"
+	"SoundManager.h"
+	"Logger.h"
+
+1226368071 source:e:\develop\asteroids\asteroidsiiid\menuconfig3d.cpp
+	"MenuConfig3D.h"
+	"MainMenu3D.h"
+	<sstream>
+
+1226527520 source:e:\develop\asteroids\asteroidsiiid\menucreditos.cpp
+	"MenuCreditos.h"
+	<sstream>
+
+1224542432 source:e:\develop\asteroids\asteroidsiiid\menuitem.cpp
+	"MenuItem.h"
+
+1226282467 source:e:\develop\asteroids\asteroidsiiid\menujuego.cpp
+	"MenuJuego.h"
+	"MenuRed.h"
+
+1226284450 source:e:\develop\asteroids\asteroidsiiid\menunave.cpp
+	"MenuNave.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+	"NavePesada.h"
+
+1226522863 e:\develop\asteroids\asteroidsiiid\naveghostm.h
+	"Nave.h"
+	"Electricidad.h"
+
+1225928466 source:e:\develop\asteroids\asteroidsiiid\modelo.cpp
+	"Modelo.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\modo.cpp
+	"Modo.h"
+
+1226399723 source:e:\develop\asteroids\asteroidsiiid\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\mouse.cpp
+	"Mouse.h"
+
+1222744373 source:e:\develop\asteroids\asteroidsiiid\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\municion.cpp
+	"Municion.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\objeto3d.cpp
+	"Objeto3d.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\paquetered.cpp
+	"PaqueteRed.h"
+	"Logger.h"
+
+1226364917 source:e:\develop\asteroids\asteroidsiiid\poder.cpp
+	"Poder.h"
+
+1224956384 source:e:\develop\asteroids\asteroidsiiid\seccioncritica.cpp
+	"SeccionCritica.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\servidorchat.cpp
+	"ServidorChat.h"
+	"ServidorChat.h"
+
+1226267860 e:\develop\asteroids\asteroidsiiid\servidorchat.h
+	"ServidorRed.h"
+	"ServidorRed.h"
+
+1225928466 source:e:\develop\asteroids\asteroidsiiid\servidorred.cpp
+	"ServidorRed.h"
+	"Logger.h"
+
+1226267860 source:e:\develop\asteroids\asteroidsiiid\settings.cpp
+	"Settings.h"
+	<windows.h>
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\socket.cpp
+	"Socket.h"
+	<iostream>
+	"Logger.h"
+
+1226521051 source:e:\develop\asteroids\asteroidsiiid\soundmanager.cpp
+	"SoundManager.h"
+	<iostream>
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\sprite.cpp
+	"Sprite.h"
+
+1222744371 source:e:\develop\asteroids\asteroidsiiid\teclado.cpp
+	"Teclado.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\texto2d.cpp
+	"Texto2D.h"
+
+1224974828 source:e:\develop\asteroids\asteroidsiiid\texto3d.cpp
+	"Texto3D.h"
+
+1225928466 source:e:\develop\asteroids\asteroidsiiid\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1224956384 source:e:\develop\asteroids\asteroidsiiid\thread.cpp
+	"Thread.h"
+
+1222744372 source:e:\develop\asteroids\asteroidsiiid\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1226262065 43
+
+1234830942 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmod\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+
+1234830942 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmod\fmod_codec.h
+
+1234830942 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmod\fmod_dsp.h
+
+1234830942 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fmod\fmod_errors.h
+	"fmod.h"
+
+1226496115 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientechat.cpp
+	"ClienteChat.h"
+
+1226271078 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientechat.h
+	"ClienteRed.h"
+
+1226271077 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\servidorchat.cpp
+	"ServidorChat.h"
+
+1226271078 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\servidorchat.h
+	"ServidorRed.h"
+
+1226271078 ed.h"
+
+1226267860 44
+
+1225885401 source:d:\desarrollo\asteriods\asteroidsiiid\animable.cpp
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\seccioncritica.h
+	<windows.h>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\colisionable.h
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\condicionable.h
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\vector.h
+	<math.h>
+	<iostream>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+	"Esfera.h"
+	"Escena.h"
+	"Engine.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\matriz4x4.h
+	"Vector.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\esfera.h
+	"Matematicas.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\thread.h
+	<windows.h>
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\sistemaparticulas.h
+	"Dibujable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\mouse.h
+	"GL.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1226563726 c:\documents and settings\piojo\desktop\asteroids\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Engine.h"
+	"Modo.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+	"ClienteModoJuego.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\modo.h
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\ctrljuego.h
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"ModoJuego.h"
+	"MenuIntro.h"
+	"Nave.h"
+	"Engine.h"
+	"ControladorRed.h"
+	"Settings.h"
+	"Colisionable.h"
+	"SoundManager.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\modomenu3d.h
+	"Modo.h"
+	"Menu.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menu.h
+	<string>
+	"Engine.h"
+	"MenuItem.h"
+	"EfectoRotEsc.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\menuitem.h
+	"Dibujable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\efectorotesc.h
+	"Dibujable.h"
+	"Texto3D.h"
+	"Matematicas.h"
+
+1226552783 c:\documents and settings\piojo\desktop\asteroids\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"FMunicion.h"
+	"Targeteable.h"
+	"FMisil.h"
+	"FElectricidad.h"
+	"FBalaComun.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\settings.h
+	<iostream>
+	<string>
+	"SoundManager.h"
+	"Vector.h"
+	"Engine.h"
+	"ModoJuego.h"
+	"Nave.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\soundmanager.h
+	<string>
+	<map>
+	<vector>
+	"fmod/fmod.h"
+	"fmod/fmod_errors.h"
+	"HashTable.h"
+	"Logger.h"
+
+1226547667 c:\documents and settings\piojo\desktop\asteroids\fmod\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+
+1226547667 c:\documents and settings\piojo\desktop\asteroids\fmod\fmod_codec.h
+
+1226547667 c:\documents and settings\piojo\desktop\asteroids\fmod\fmod_dsp.h
+
+1226547667 c:\documents and settings\piojo\desktop\asteroids\fmod\fmod_errors.h
+	"fmod.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\hasheable.h
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\logger.h
+	<windows.h>
+	<iostream>
+	<fstream>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\misil.h
+	"Colisionable.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+	"ServidorRed.h"
+	"Municion.h"
+	"Targeteable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\asteroide.h
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Colisionable.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+	"ServidorRed.h"
+	"Targeteable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\balacomun.h
+	"Engine.h"
+	"Settings.h"
+	"Colisionable.h"
+	"ExplosionParticulas.h"
+	"ServidorRed.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Municion.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\explosionparticulas.h
+	"Animable.h"
+	"SistemaParticulas.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\servidorred.h
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+	"PaqueteRed.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\controladorred.h
+	"Engine.h"
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+	"ObserversConexion.h"
+	"SeccionCritica.h"
+	<iostream>
+	<list>
+	<map>
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\socket.h
+	<WinSock2.h>
+	<string>
+	<stdexcept>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientered.h
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\paquetered.h
+	"Vector.h"
+	"Producto.h"
+	<iostream>
+	<vector>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\producto.h
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"SeccionCritica.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"ObserversConexion.h"
+	"ProductorConsumidor.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\observersconexion.h
+	<iostream>
+	<string>
+	<set>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\productorconsumidor.h
+	"SeccionCritica.h"
+	"Evento.h"
+	"Producto.h"
+	<queue>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\evento.h
+	<windows.h>
+	<iostream>
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\municion.h
+	"Nave.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\poder.h
+	"Colisionable.h"
+	"Nave.h"
+	"Luz.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"OrbitaParticulas.h"
+	"ServidorRed.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\orbitaparticulas.h
+	"Animable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\bolaexplosiva.h
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Animable.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Vector.h"
+	"Luz.h"
+	"ModoJuego.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\explosion.h
+	"Animable.h"
+	"Sprite.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\espiral.h
+	"Animable.h"
+	"Sprite.h"
+	"ModoJuego.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\targeteable.h
+	"Vector.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\humo.h
+	"Animable.h"
+	"Sprite.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\fmunicion.h
+	"Vector.h"
+	"Nave.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\fmisil.h
+	<string>
+	<iostream>
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+	"FMunicion.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\felectricidad.h
+	"FMunicion.h"
+	"Electricidad.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\electricidad.h
+	"Vector.h"
+	"Multiobjeto3d.h"
+	"Animable.h"
+	"Objeto3d.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+	"BalaComun.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientemodojuego.h
+	"ClienteRed.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\condition.h
+	"Condicionable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\balacomun.cpp
+	"BalaComun.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\camara.cpp
+	"Camara.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\clienteasteroide.cpp
+	"ClienteAsteroide.h"
+	"Logger.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clienteasteroide.h
+	"ClienteRed.h"
+	"Asteroide.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientebalacomun.h
+	"ClienteRed.h"
+	"BalaComun.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\clientechat.cpp
+	"ClienteChat.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\clientechat.h
+	"ClienteRed.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\clientemisil.cpp
+	"ClienteMisil.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\clientemisil.h
+	"ClienteRed.h"
+	"Misil.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\clientered.cpp
+	"ClienteRed.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\colisionable.cpp
+	"Colisionable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\condtargeteable.cpp
+	"CondTargeteable.h"
+	"Targeteable.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\condtargeteable.h
+	"Condition.h"
+	"Nave.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\controladorclientered.cpp
+	"ControladorClienteRed.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+	"Logger.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\controladorred.cpp
+	"ControladorRed.h"
+	"PrototiposClientes.h"
+	"Logger.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\prototiposclientes.h
+	"ControladorRed.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\ctrljuego.cpp
+	"CtrlJuego.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\dibujable.cpp
+	"Dibujable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\efectorotesc.cpp
+	"EfectoRotEsc.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\electricidad.cpp
+	"Electricidad.h"
+	"Vector.h"
+	"Objeto3d.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\engine.cpp
+	"Engine.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\escena.cpp
+	"Escena.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\esfera.cpp
+	"Esfera.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\espiral.cpp
+	"Espiral.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\evento.cpp
+	"Evento.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\explosion.cpp
+	"Explosion.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"ModoJuego.h"
+	"Asteroide.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+	"Targeteable.h"
+	"CondTargeteable.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\fmunicion.cpp
+	"FMunicion.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\humo.cpp
+	"Humo.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\lensflare.cpp
+	"LensFlare.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\logger.cpp
+	"Logger.h"
+	<sstream>
+	<string>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\mfisica.cpp
+	"MFisica.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\mainmenu3d.cpp
+	"MainMenu3D.h"
+	"NavePichi.h"
+	"CtrlJuego.h"
+	"MenuCreditos.h"
+	"MenuNave.h"
+	"MenuJuego.h"
+	"MenuConfig3D.h"
+	"EfectoRotEsc.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\mainmenu3d.h
+	"Menu.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\navepichi.h
+	"Nave.h"
+	"ServidorRed.h"
+	"ClienteNavePichi.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientenavepichi.h
+	"ClienteRed.h"
+	"NavePichi.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menucreditos.h
+	"Menu.h"
+	"MainMenu3D.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menunave.h
+	"Menu.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menujuego.h
+	"CtrlJuego.h"
+	"Menu.h"
+	"EfectoRotEsc.h"
+	"MainMenu3D.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\menuconfig3d.h
+	"Menu.h"
+	"TextBox.h"
+	"Settings.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\textbox.h
+	"Escena.h"
+	"Texto3D.h"
+	"Sprite.h"
+	"Logger.h"
+	<vector>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\material.cpp
+	"Material.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\menu.cpp
+	"Menu.h"
+	"SoundManager.h"
+	"Logger.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\menuconfig3d.cpp
+	"MenuConfig3D.h"
+	"MainMenu3D.h"
+	<sstream>
+
+1226552730 source:c:\documents and settings\piojo\desktop\asteroids\menucreditos.cpp
+	"MenuCreditos.h"
+	<sstream>
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\menuitem.cpp
+	"MenuItem.h"
+
+1226559026 source:c:\documents and settings\piojo\desktop\asteroids\menujuego.cpp
+	"MenuJuego.h"
+	"MenuRed.h"
+
+1226547905 c:\documents and settings\piojo\desktop\asteroids\menured.h
+	"Menu.h"
+	"Luz.h"
+	"TextBox.h"
+	"ControladorRed.h"
+	"Evento.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\menunave.cpp
+	"MenuNave.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+	"NavePesada.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\naveghostm.h
+	"Nave.h"
+	"Electricidad.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\navepesada.h
+	"Nave.h"
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"BalaComun.h"
+	"FMunicion.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"FElectricidad.h"
+	"FEmbestida.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\fembestida.h
+	"FMunicion.h"
+	"Embestida.h"
+	"Objeto3d.h"
+	"Vector.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\embestida.h
+	"Colisionable.h"
+	"Vector.h"
+	"Sprite.h"
+	"Objeto3d.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\menured.cpp
+	"MenuRed.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Logger.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\modelo.cpp
+	"Modelo.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\modo.cpp
+	"Modo.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\mouse.cpp
+	"Mouse.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\municion.cpp
+	"Municion.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\nave.cpp
+	"Nave.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\objeto3d.cpp
+	"Objeto3d.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\obligatorio1.cpp
+	"Engine.h"
+	<iostream>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\observersconexion.cpp
+	"ObserversConexion.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\orbitaparticulas.cpp
+	"OrbitaParticulas.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\paquetered.cpp
+	"PaqueteRed.h"
+	"Logger.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\productorconsumidor.cpp
+	"ProductorConsumidor.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\prototiposclientes.cpp
+	"PrototiposClientes.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+	"ClienteModoJuego.h"
+	"ClienteChat.h"
+	"ClienteNavePesada.h"
+	"ClienteNaveGhost.h"
+	"ClientePoder.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientenavepesada.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientenaveghost.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\clientepoder.h
+	"ClienteRed.h"
+	"Poder.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\seccioncritica.cpp
+	"SeccionCritica.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\servidorchat.cpp
+	"ServidorChat.h"
+
+1226547671 c:\documents and settings\piojo\desktop\asteroids\servidorchat.h
+	"ServidorRed.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\servidorred.cpp
+	"ServidorRed.h"
+	"Logger.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\settings.cpp
+	"Settings.h"
+	<windows.h>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\sistemaparticulas.cpp
+	"SistemaParticulas.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\socket.cpp
+	"Socket.h"
+	<iostream>
+	"Logger.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\soundmanager.cpp
+	"SoundManager.h"
+	<iostream>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\sprite.cpp
+	"Sprite.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\teclado.cpp
+	"Teclado.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\textbox.cpp
+	"TextBox.h"
+	"MenuRed.h"
+	"Teclado.h"
+	"Mouse.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\texto2d.cpp
+	"Texto2D.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\texto3d.cpp
+	"Texto3D.h"
+
+1226547905 source:c:\documents and settings\piojo\desktop\asteroids\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\thread.cpp
+	"Thread.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1226547671 source:c:\documents and settings\piojo\desktop\asteroids\main.cc
+	<iostream>
+	<stdexcept>
+	"Engine.h"
+	"CtrlJuego.h"
+	"Logger.h"
+	"ServidorChat.h"
+	"ClienteChat.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\clientemodojuego.cpp
+	"ClienteModoJuego.h"
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NavePesada.h"
+	"NaveGhostM.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\clientenaveghost.cpp
+	"ClienteNaveGhost.h"
+	"Nave.h"
+	"NaveGhostM.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\clientenavepesada.cpp
+	"ClienteNavePesada.h"
+	"NavePesada.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\clientenavepichi.cpp
+	"ClienteNavePichi.h"
+	"Logger.h"
+
+1226416091 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\municion.h
+	"Nave.h"
+
+1226416315 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\municion.cpp
+	"Municion.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\targeteable.h
+	"Vector.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\condtargeteable.cpp
+	"CondTargeteable.h"
+	"Targeteable.h"
+
+1226494675 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\condtargeteable.h
+	"Condition.h"
+	"Nave.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\clientepoder.cpp
+	"ClientePoder.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\misil.cpp
+	"Misil.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\naveghostm.cpp
+	"NaveGhostM.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\navepesada.cpp
+	"NavePesada.h"
+	"Logger.h"
+	"Material.h"
+
+1226552783 source:c:\documents and settings\piojo\desktop\asteroids\navepichi.cpp
+	"NavePichi.h"
+
+1226552815 source:c:\documents and settings\piojo\desktop\asteroids\poder.cpp
+	"Poder.h"
+
+1226563687 source:c:\documents and settings\piojo\desktop\asteroids\modojuego.cpp
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NaveGhostM.H"
+	"NavePesada.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"Logger.h"
+
+1227375535 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenaveghost.cpp
+	"ClienteNaveGhost.h"
+	"Nave.h"
+	"NaveGhostM.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenaveghost.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenavepesada.cpp
+	"ClienteNavePesada.h"
+	"NavePesada.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientenavepesada.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1226626274 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientepoder.cpp
+	"ClientePoder.h"
+
+1226626274 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\clientepoder.h
+	"ClienteRed.h"
+	"Poder.h"
+
+1226626275 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\fembestida.cpp
+	"FEmbestida.h"
+
+1235519454 source:c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\cadenaparticulas.cpp
+	"CadenaParticulas.h"
+
+1235519334 c:\documents and settings\administrador\escritorio\porquerias de nico\t-asteroids\cadenaparticulas.h
+	"SistemaParticulas.h"
+	"Animable.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\animable.cpp	"Animable.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\animable.h	<iostream>	"MFisica.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\mfisica.h	<vector>	<iostream>	"SeccionCritica.h"	"Colisionable.h"	"Esfera.h"	"Animable.h"	"Condition.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\seccioncritica.h	<windows.h>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\colisionable.h	"Condicionable.h"	"Vector.h"	"Objeto3d.h"	"Engine.h"	"MFisica.h"	"Esfera.h"	"ModoJuego.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\condicionable.h1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\vector.h	<math.h>	<iostream>1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\objeto3d.h	"Dibujable.h"	"ManejadorModelos.h"	"ManejadorTexturas.h"	"Material.h"1234827657 c:\documents and settings\luciano\escritorio
+
+1234827659 \dibujable.h	"GL.h"	"Matriz4x4.h"	"Esfera.h"	"Escena.h"	"Engine.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\gl.h	<ctype.h>	<windows.h>	<GL/gl.h>	<GL/glut.h>	<iostream>1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\matriz4x4.h	"Vector.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\esfera.h	"Matematicas.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\matematicas.h	"Vector.h"	"Matriz4x4.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\escena.h	"Camara.h"	"Luz.h"	"Dibujable.h"	<set>	<map>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\camara.h	"GL.h"	"Matriz4x4.h"	<string>	"Escena.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\luz.h	"GL.h"	"Vector.h"	"math.h"	"Escena.h"	"LensFlare.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\lensflare.h	"Luz.h"	"Dibujable.h"	<map>	"Sprite.h"1234827659 c:\documents and settings\luciano\escr
+
+1234827659 eroids\sprite.h	"Dibujable.h"	"ManejadorTexturas.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\manejadortexturas.h	"Textura.h"	<string>	<map>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\textura.h	"GL.h"	"ManejadorTexturas.h"	"Thread.h"	"Engine.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\thread.h	<windows.h>1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\engine.h	<time.h>	<iostream>	<string>	"Escena.h"	"ManejadorModelos.h"	"ManejadorTexturas.h"	"Objeto3d.h"	"Multiobjeto3d.h"	"Sprite.h"	"Texto2D.h"	"Texto3D.h"	"SistemaParticulas.h"	"Mouse.h"	"Teclado.h"	"Matematicas.h"	"Material.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\manejadormodelos.h	<map>	<string>	"Modelo.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\modelo.h	"GL.h"	"ManejadorModelos.h"	<vector>	<map>	<stdio.h>	<stdexcept>	<string>	"stdio.h"	"Vector.h"	"Malla.h"1234827657 c:\documents and settings\lu
+
+1234827659 orio\t-asteroids\malla.h	"GL.h"	<stdio.h>	<string>	<iostream>	"Esfera.h"	"Matematicas.h"	"Vector.h"	"stdio.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\multiobjeto3d.h	"Dibujable.h"	"Objeto3d.h"	"Modelo.h"	<string>	<map>	<vector>1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\texto2d.h	"Dibujable.h"	"ManejadorTexturas.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\texto3d.h	"Dibujable.h"	"Multiobjeto3d.h"	"Objeto3d.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\sistemaparticulas.h	"Multiobjeto3d.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\mouse.h	"GL.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\teclado.h	"GL.h"	<iostream>	<string>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\material.h	"GL.h"	"Vector.h"	"math.h"	"Escena.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\modojuego.h	<iostream>	<map>	<vector>	"Engine.h
+	"Modo.h"	"CtrlJuego.h"	"ModoMenu.h"	"Settings.h"	"Nave.h"	"Asteroide.h"	"Colisionable.h"	"MFisica.h"	"ClienteModoJuego.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\modo.h1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\ctrljuego.h	<iostream>	<stdexcept>	<vector>	"Modo.h"	"ModoJuego.h"	"MenuIntro.h"	"Nave.h"	"Engine.h"	"ControladorRed.h"	"Settings.h"	"Colisionable.h"	"SoundManager.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\menuintro.h	"ModoMenu.h"	"Teclado.h"	"CtrlJuego.h"	"Opcion.h"	"ModoMenu3D.h"	<vector>1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\modomenu.h	<iostream>	"Teclado.h"	"Modo.h"	"ModoJuego.h"	"CtrlJuego.h"	"Texto2D.h"	"Opcion.h"	<vector>	<iostream>	"Modo.h"	"Camara.h"	"Escena.h"	"Texto2D.h"	"Engine.h"	"Opcion.h"	"Multiobjeto3d.h"	<vector>	<iostream>1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\opcion.h	"Texto2D.h"	<vector>1234827658 c:\documents and settings\luciano\escritorio\t-
+
+1234827659 domenu3d.h	"Modo.h"	"Menu.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\menu.h	<string>	"Engine.h"	"MenuItem.h"	"EfectoRotEsc.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\menuitem.h	"Dibujable.h"	<vector>1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\efectorotesc.h	"Dibujable.h"	"Texto3D.h"	"Matematicas.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\nave.h	<math.h>	<iostream>	<vector>	"Objeto3d.h"	"Settings.h"	"Engine.h"	"Misil.h"	"Colisionable.h"	"Asteroide.h"	"BalaComun.h"	"CadenaParticulas.h"	"FMunicion.h"	"Targeteable.h"	"FMisil.h"	"FElectricidad.h"	"FBalaComun.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\settings.h	<iostream>	<string>	"SoundManager.h"	"Vector.h"	"Engine.h"	"ModoJuego.h"	"Nave.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\soundmanager.h	<string>	<map>	<vector>	"fmod/fmod.h"	"fmod/fmod_errors.h"	"HashTable.h"	"Logger.h"1234827384 c:\docu
+
+1234827659 ttings\luciano\escritorio\t-asteroids\fmod\fmod.h	"fmod_codec.h"	"fmod_dsp.h"1234827384 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_codec.h1234827384 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_dsp.h1234827384 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_errors.h	"fmod.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\hashtable.h	"Hasheable.h"	<list>1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\hasheable.h1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\logger.h	<windows.h>	<iostream>	<fstream>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\misil.h	"Colisionable.h"	"Vector.h"	"Luz.h"	"Asteroide.h"	"Nave.h"	"ModoJuego.h"	"Settings.h"	"Humo.h"	"Matematicas.h"	"ServidorRed.h"	"Municion.h"	"Targeteable.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\asteroide.h	"Engine.h"	"Esfera.h"	"Settings.h"	"Matematicas.h"	"Colisionable.h"	"Mat
+
+1234827659 odoJuego.h"	"BalaComun.h"	"Nave.h"	"Misil.h"	"Poder.h"	"BolaExplosiva.h"	"Explosion.h"	"Espiral.h"	"ServidorRed.h"	"Targeteable.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\balacomun.h	"Engine.h"	"Settings.h"	"Colisionable.h"	"ExplosionParticulas.h"	"ServidorRed.h"	"Nave.h"	"Asteroide.h"	"Municion.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\explosionparticulas.h	"Animable.h"	"SistemaParticulas.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\servidorred.h	"Hasheable.h"	<iostream>	"ControladorRed.h"	"PaqueteRed.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\controladorred.h	"Engine.h"	"Socket.h"	"Thread.h"	"ServidorRed.h"	"ClienteRed.h"	"ControladorClienteRed.h"	"ControladorConexionRed.h"	"PaqueteRed.h"	"HashTable.h"	"ObserversConexion.h"	"SeccionCritica.h"	<iostream>	<list>	<map>1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\socket.h	<WinSock2.h>	<string>	<stdexcept>1234827659 c:\do
+
+1234827659 settings\luciano\escritorio\t-asteroids\clientered.h	"PaqueteRed.h"	"Hasheable.h"	<iostream>	"ControladorRed.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\paquetered.h	"Vector.h"	"Producto.h"	<iostream>	<vector>1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\producto.h1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\controladorclientered.h	"Hasheable.h"	"Thread.h"	"Socket.h"	"ControladorRed.h"	"SeccionCritica.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\controladorconexionred.h	"Thread.h"	"Socket.h"	"ControladorRed.h"	"ObserversConexion.h"	"ProductorConsumidor.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\observersconexion.h	<iostream>	<string>	<set>1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\productorconsumidor.h	"SeccionCritica.h"	"Evento.h"	"Producto.h"	<queue>1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\evento.h	<windows.h>	<iostream>12
+
+4827659 c:\documents and settings\luciano\escritorio\t-asteroids\municion.h	"Nave.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\poder.h	"Colisionable.h"	"Nave.h"	"Luz.h"	"Engine.h"	"Objeto3d.h"	"OrbitaParticulas.h"	"ServidorRed.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\orbitaparticulas.h	"Animable.h"	"SistemaParticulas.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\bolaexplosiva.h	"ExplosionParticulas.h"	"OrbitaParticulas.h"	"Animable.h"	"Engine.h"	"Objeto3d.h"	"Vector.h"	"Luz.h"	"ModoJuego.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\explosion.h	"Animable.h"	"Sprite.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\espiral.h	"Animable.h"	"Sprite.h"	"ModoJuego.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\targeteable.h	"Vector.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\humo.h	"Animable.h"	"Sprite.h"1238116428 c:\documents and settings\luci
+
+4827659 torio\t-asteroids\cadenaparticulas.h	"SistemaParticulas.h"	"Animable.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\fmunicion.h	"Vector.h"	"Nave.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\fmisil.h	<string>	<iostream>	"Objeto3d.h"	"Misil.h"	"Nave.h"	"Asteroide.h"	"ModoJuego.h"	"FMunicion.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\felectricidad.h	"FMunicion.h"	"Electricidad.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\electricidad.h	"Vector.h"	"Multiobjeto3d.h"	"Animable.h"	"Objeto3d.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\fbalacomun.h	<iostream>	<string>	<stdexcept>	<vector>	<map>	"FMunicion.h"	"BalaComun.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientemodojuego.h	"ClienteRed.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\condition.h	"Condicionable.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-aster
+
+4827659 roide.cpp	"Asteroide.h"	"Animable.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\balacomun.cpp	"BalaComun.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\bolaexplosiva.cpp	"BolaExplosiva.h"1234991474 source:c:\documents and settings\luciano\escritorio\t-asteroids\cadenaparticulas.cpp	"CadenaParticulas.h"1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\camara.cpp	"Camara.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\clienteasteroide.cpp	"ClienteAsteroide.h"	"Logger.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\clienteasteroide.h	"ClienteRed.h"	"Asteroide.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientebalacomun.cpp	"ClienteBalaComun.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientebalacomun.h	"ClienteRed.h"	"BalaComun.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\client
+
+4827659 "ClienteChat.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\clientechat.h	"ClienteRed.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientemisil.cpp	"ClienteMisil.h"1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\clientemisil.h	"ClienteRed.h"	"Misil.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientemodojuego.cpp	"ClienteModoJuego.h"	"ModoJuego.h"	"NavePichi.h"	"NavePesada.h"	"NaveGhostM.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\navepichi.h	"Nave.h"	"ServidorRed.h"	"ClienteNavePichi.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepichi.h	"ClienteRed.h"	"NavePichi.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\navepesada.h	"Nave.h"	"Objeto3d.h"	"Settings.h"	"Engine.h"	"Misil.h"	"BalaComun.h"	"FMunicion.h"	"Colisionable.h"	"Asteroide.h"	"FElectricidad.h"	"FEmbestida.h"1234827658 c:\documents and settings\luciano\
+
+4827659 o\t-asteroids\fembestida.h	"FMunicion.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\naveghostm.h	"Nave.h"	"Electricidad.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenaveghost.cpp	"ClienteNaveGhost.h"	"Nave.h"	"NaveGhostM.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientenaveghost.h	"ClienteRed.h"	"Nave.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepesada.cpp	"ClienteNavePesada.h"	"NavePesada.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepesada.h	"ClienteRed.h"	"Nave.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepichi.cpp	"ClienteNavePichi.h"	"Logger.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientepoder.cpp	"ClientePoder.h"1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\clientepoder.h	"ClienteRed.h"	"Poder.h"1234827658 source:c:\documents a
+
+4827659 gs\luciano\escritorio\t-asteroids\clientered.cpp	"ClienteRed.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\colisionable.cpp	"Colisionable.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\condtargeteable.cpp	"CondTargeteable.h"	"Targeteable.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\condtargeteable.h	"Condition.h"	"Nave.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorclientered.cpp	"ControladorClienteRed.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorconexionred.cpp	"ControladorConexionRed.h"	"Logger.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorred.cpp	"ControladorRed.h"	"PrototiposClientes.h"	"Logger.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\prototiposclientes.h	"ControladorRed.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\ctrljuego.cp
+	"CtrlJuego.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\dibujable.cpp	"Dibujable.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\efectorotesc.cpp	"EfectoRotEsc.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\electricidad.cpp	"Electricidad.h"	"Vector.h"	"Objeto3d.h"1234991474 source:c:\documents and settings\luciano\escritorio\t-asteroids\engine.cpp	"Engine.h"	"ManejadorModelos.h"	"Mouse.h"	"Teclado.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\escena.cpp	"Escena.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\esfera.cpp	"Esfera.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\espiral.cpp	"Espiral.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\evento.cpp	"Evento.h"1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\explosion.cpp	"Explosion.h"1234827656 source:c:\documents and sett
+
+4827659 ano\escritorio\t-asteroids\explosionparticulas.cpp	"ExplosionParticulas.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\fbalacomun.cpp	"FBalaComun.h"	"SoundManager.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\felectricidad.cpp	"FElectricidad.h"	"Electricidad.h"	"ModoJuego.h"	"Asteroide.h"	"CondTargeteable.h"	"Targeteable.h"	"NaveGhostM.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\fembestida.cpp	"FEmbestida.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\fmisil.cpp	"FMisil.h"	"SoundManager.h"	"Targeteable.h"	"CondTargeteable.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\fmunicion.cpp	"FMunicion.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\hashtable.cpp	"HashTable.h"	<iostream>1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\humo.cpp	"Humo.h"1234827659 source:c:\documents and settings\luciano\e
+
+4827659 \t-asteroids\lensflare.cpp	"LensFlare.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\logger.cpp	"Logger.h"	<sstream>	<string>1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\luz.cpp	<stdio.h>	<string.h>	"Luz.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\mfisica.cpp	"MFisica.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\mainmenu3d.cpp	"MainMenu3D.h"	"NavePichi.h"	"CtrlJuego.h"	"MenuCreditos.h"	"MenuNave.h"	"MenuJuego.h"	"MenuConfig3D.h"	"EfectoRotEsc.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\mainmenu3d.h	"Menu.h"1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\menucreditos.h	"Menu.h"	"MainMenu3D.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\menunave.h	"Menu.h"	"MainMenu3D.h"	"MenuJuego.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\menujuego.h	"CtrlJuego.h"	"Menu.h"	"EfectoRotEsc.h"	"MainMenu
+
+4827659 827657 c:\documents and settings\luciano\escritorio\t-asteroids\menuconfig3d.h	"Menu.h"	"TextBox.h"	"Settings.h"1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\textbox.h	"Escena.h"	"Texto3D.h"	"Sprite.h"	"Logger.h"	<vector>1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\malla.cpp	"Malla.h"	<math.h>1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\manejadormodelos.cpp	"ManejadorModelos.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\manejadortexturas.cpp	"ManejadorTexturas.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\matematicas.cpp	"Matematicas.h"	<stdlib.h>	<math.h>	"time.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\material.cpp	"Material.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\matriz4x4.cpp	"Matriz4x4.h"	"math.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\menu.cpp	"Men
+
+4827659 ndManager.h"	"Logger.h"	"Teclado.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\menuconfig3d.cpp	"MenuConfig3D.h"	"MainMenu3D.h"	<sstream>1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\menucreditos.cpp	"MenuCreditos.h"	<sstream>	"Texto2D.h"1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\menuitem.cpp	"MenuItem.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\menujuego.cpp	"MenuJuego.h"	"MenuRed.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\menured.h	"Menu.h"	"Luz.h"	"TextBox.h"	"ControladorRed.h"	"Evento.h"	"Texto2D.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\menunave.cpp	"MenuNave.h"	"Objeto3d.h"	"NaveGhostM.h"	"NavePichi.h"	"NavePesada.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\menured.cpp	"MenuRed.h"	"CtrlJuego.h"	"MainMenu3D.h"	"MenuJuego.h"	"Logger.h"1234827656 source:c:\documents and settings\l
+
+4827659 critorio\t-asteroids\misil.cpp	"Misil.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\modelo.cpp	"Modelo.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\modo.cpp	"Modo.h"1234991474 source:c:\documents and settings\luciano\escritorio\t-asteroids\modojuego.cpp	"ModoJuego.h"	"NavePichi.h"	"NaveGhostM.H"	"NavePesada.h"	"CondTargeteable.h"	"Targeteable.h"	"Teclado.h"	"Mouse.h"	"Logger.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\modomenu3d.cpp	"ModoMenu3D.h"	"CtrlJuego.h"	"MainMenu3D.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\mouse.cpp	"Mouse.h"1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\multiobjeto3d.cpp	"Multiobjeto3d.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\municion.cpp	"Municion.h"1234991474 source:c:\documents and settings\luciano\escritorio\t-asteroids\nave.cpp	"Nave.h"1234827657 source:c:\documents and setting
+
+4827659 \escritorio\t-asteroids\naveghostm.cpp	"NaveGhostM.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\navepesada.cpp	"NavePesada.h"	"Logger.h"	"Material.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\navepichi.cpp	"NavePichi.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\objeto3d.cpp	"Objeto3d.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\observersconexion.cpp	"ObserversConexion.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\orbitaparticulas.cpp	"OrbitaParticulas.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\paquetered.cpp	"PaqueteRed.h"	"Logger.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\poder.cpp	"Poder.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\productorconsumidor.cpp	"ProductorConsumidor.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-a
+
+4827659 prototiposclientes.cpp	"PrototiposClientes.h"	"ClienteBalaComun.h"	"ClienteNavePichi.h"	"ClienteMisil.h"	"ClienteAsteroide.h"	"ClienteModoJuego.h"	"ClienteChat.h"	"ClienteNavePesada.h"	"ClienteNaveGhost.h"	"ClientePoder.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\seccioncritica.cpp	"SeccionCritica.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\servidorchat.cpp	"ServidorChat.h"1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\servidorchat.h	"ServidorRed.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\servidorred.cpp	"ServidorRed.h"	"Logger.h"1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\settings.cpp	"Settings.h"	<windows.h>1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\sistemaparticulas.cpp	"SistemaParticulas.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\socket.cpp	"Socket.h"	<iostream>	"Logger.h"123482765
+
+4827659 c:\documents and settings\luciano\escritorio\t-asteroids\soundmanager.cpp	"SoundManager.h"	<iostream>1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\sprite.cpp	"Sprite.h"1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\teclado.cpp	"Teclado.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\textbox.cpp	"TextBox.h"	"MenuRed.h"	"Teclado.h"	"Mouse.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\texto2d.cpp	"Texto2D.h"1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\texto3d.cpp	"Texto3D.h"1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\textura.cpp	"Textura.h"	<stdio.h>	<iostream>1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\thread.cpp	"Thread.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\vector.cpp	"math.h"	"Vector.h"1234827658 source:c:\documents and settings\luciano\escritorio\t-astero
+
+4827659 cc	<iostream>	<stdexcept>	"Engine.h"	"CtrlJuego.h"	"Logger.h"	"ServidorChat.h"	"ClienteChat.h
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\animable.cpp
+	"Animable.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\animable.h
+	<iostream>
+	"MFisica.h"
+
+1242341484 c:\documents and settings\luciano\escritorio\t-asteroids\mfisica.h
+	<vector>
+	<iostream>
+
+1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\camara.cpp
+	"Camara.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\camara.h
+	"GL.h"
+	"Matriz4x4.h"
+	<string>
+	"Escena.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\gl.h
+	<ctype.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\matriz4x4.h
+	"Vector.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\vector.h
+	<math.h>
+	<iostream>
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\escena.h
+	"Camara.h"
+	"Luz.h"
+	"Dibujable.h"
+	<set>
+	<map>
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\luz.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+	"LensFlare.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\lensflare.h
+	"Luz.h"
+	"Dibujable.h"
+	<map>
+	"Sprite.h"
+
+1242494207 c:\documents and settings\luciano\escritorio\t-asteroids\dibujable.h
+	"GL.h"
+	"Matriz4x4.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\sprite.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\manejadortexturas.h
+	"Textura.h"
+	<string>
+	<map>
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\textura.h
+	"GL.h"
+	"ManejadorTexturas.h"
+	"Thread.h"
+	"Engine.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\thread.h
+	<windows.h>
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\engine.h
+	<time.h>
+	<iostream>
+	<string>
+	"Escena.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Objeto3d.h"
+	"Multiobjeto3d.h"
+	"Sprite.h"
+	"Texto2D.h"
+	"Texto3D.h"
+	"SistemaParticulas.h"
+	"Mouse.h"
+	"Teclado.h"
+	"Matematicas.h"
+	"Material.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\manejadormodelos.h
+	<map>
+	<string>
+	"Modelo.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\modelo.h
+	"GL.h"
+	"ManejadorModelos.h"
+	<vector>
+	<map>
+	<stdio.h>
+	<stdexcept>
+	<string>
+	"stdio.h"
+	"Vector.h"
+	"Malla.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\malla.h
+	"GL.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	"Esfera.h"
+	"Matematicas.h"
+	"Vector.h"
+	"stdio.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\esfera.h
+	"Vector.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\matematicas.h
+	"Vector.h"
+	"Matriz4x4.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\objeto3d.h
+	"Dibujable.h"
+	"ManejadorModelos.h"
+	"ManejadorTexturas.h"
+	"Material.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\material.h
+	"GL.h"
+	"Vector.h"
+	"math.h"
+	"Escena.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\multiobjeto3d.h
+	"Dibujable.h"
+	"Objeto3d.h"
+	"Modelo.h"
+	<string>
+	<map>
+	<vector>
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\texto2d.h
+	"Dibujable.h"
+	"ManejadorTexturas.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\texto3d.h
+	"Dibujable.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+
+1242341486 c:\documents and settings\luciano\escritorio\t-asteroids\sistemaparticulas.h
+	"Dibujable.h"
+	"Esfera.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\mouse.h
+	"GL.h"
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\teclado.h
+	"GL.h"
+	<iostream>
+	<string>
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\clienteasteroide.cpp
+	"ClienteAsteroide.h"
+	"Logger.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\clienteasteroide.h
+	"ClienteRed.h"
+	"Asteroide.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\clientered.h
+	"PaqueteRed.h"
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\paquetered.h
+	"Vector.h"
+	"Producto.h"
+	<iostream>
+	<vector>
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\producto.h
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\hasheable.h
+
+1242955097 c:\documents and settings\luciano\escritorio\t-asteroids\controladorred.h
+	<iostream>
+	<list>
+	<map>
+	"ObserversConexion.h"
+	"HashTable.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\asteroide.h
+	"ServidorRed.h"
+	"Targeteable.h"
+	"Colisionable.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\servidorred.h
+	"Hasheable.h"
+	<iostream>
+	"ControladorRed.h"
+	"PaqueteRed.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\targeteable.h
+	"Vector.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\colisionable.h
+	"Condicionable.h"
+	"Vector.h"
+	"Objeto3d.h"
+	"Engine.h"
+	"MFisica.h"
+	"Esfera.h"
+	"ModoJuego.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\condicionable.h
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\modojuego.h
+	<iostream>
+	<map>
+	<vector>
+	"Modo.h"
+	"ServidorRed.h"
+	"ObserversConexion.h"
+	"Vector.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\modo.h
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\observersconexion.h
+	<iostream>
+	<string>
+	<set>
+
+1242484074 c:\documents and settings\luciano\escritorio\t-asteroids\logger.h
+	"SeccionCritica.h"
+	<iostream>
+	<fstream>
+
+1242663294 c:\documents and settings\luciano\escritorio\t-asteroids\seccioncritica.h
+	<windows.h>
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientebalacomun.cpp
+	"ClienteBalaComun.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientebalacomun.h
+	"ClienteRed.h"
+	"BalaComun.h"
+
+1242341485 c:\documents and settings\luciano\escritorio\t-asteroids\balacomun.h
+	"Municion.h"
+	"ServidorRed.h"
+	"Colisionable.h"
+
+1242341484 c:\documents and settings\luciano\escritorio\t-asteroids\municion.h
+
+1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientechat.cpp
+	"ClienteChat.h"
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\clientechat.h
+	"ClienteRed.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientemisil.cpp
+	"ClienteMisil.h"
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\clientemisil.h
+	"ClienteRed.h"
+	"Misil.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\misil.h
+	"Colisionable.h"
+	"ServidorRed.h"
+	"Municion.h"
+
+1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientepoder.cpp
+	"ClientePoder.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\clientepoder.h
+	"ClienteRed.h"
+	"Poder.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\poder.h
+	"ServidorRed.h"
+	"Colisionable.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientered.cpp
+	"ClienteRed.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\colisionable.cpp
+	"Colisionable.h"
+
+1242954999 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorclientered.cpp
+	"ControladorClienteRed.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"SeccionCritica.h"
+	"PaqueteRed.h"
+	"SeccionCritica.h"
+
+1242955018 c:\documents and settings\luciano\escritorio\t-asteroids\controladorclientered.h
+	"Hasheable.h"
+	"Thread.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\socket.h
+	<WinSock2.h>
+	<string>
+	<stdexcept>
+
+1242955252 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorconexionred.cpp
+	"ControladorConexionRed.h"
+	"ControladorClienteRed.h"
+	"Logger.h"
+	"PaqueteRed.h"
+
+1242955252 c:\documents and settings\luciano\escritorio\t-asteroids\controladorconexionred.h
+	"Thread.h"
+	"Socket.h"
+	"ControladorRed.h"
+	"ObserversConexion.h"
+	"ProductorConsumidor.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\productorconsumidor.h
+	"SeccionCritica.h"
+	"Evento.h"
+	"Producto.h"
+	<queue>
+
+1242484072 c:\documents and settings\luciano\escritorio\t-asteroids\evento.h
+	<windows.h>
+	<iostream>
+
+1234991474 source:c:\documents and settings\luciano\escritorio\t-asteroids\engine.cpp
+	"Engine.h"
+	"ManejadorModelos.h"
+	"Mouse.h"
+	"Teclado.h"
+
+1242955289 source:c:\documents and settings\luciano\escritorio\t-asteroids\escena.cpp
+	"Escena.h"
+	"Esfera.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\evento.cpp
+	"Evento.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\hashtable.h
+	"Hasheable.h"
+	<list>
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\luz.cpp
+	<stdio.h>
+	<string.h>
+	"Luz.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\malla.cpp
+	"Malla.h"
+	<math.h>
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\manejadormodelos.cpp
+	"ManejadorModelos.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\manejadortexturas.cpp
+	"ManejadorTexturas.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\matematicas.cpp
+	"Matematicas.h"
+	<stdlib.h>
+	<math.h>
+	"time.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\material.cpp
+	"Material.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\matriz4x4.cpp
+	"Matriz4x4.h"
+	"math.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\modelo.cpp
+	"Modelo.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\modo.cpp
+	"Modo.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\mouse.cpp
+	"Mouse.h"
+
+1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\multiobjeto3d.cpp
+	"Multiobjeto3d.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\objeto3d.cpp
+	"Objeto3d.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\observersconexion.cpp
+	"ObserversConexion.h"
+
+1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\paquetered.cpp
+	"PaqueteRed.h"
+	"Logger.h"
+
+1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\productorconsumidor.cpp
+	"ProductorConsumidor.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\prototiposclientes.cpp
+	"PrototiposClientes.h"
+	"ClienteBalaComun.h"
+	"ClienteNavePichi.h"
+	"ClienteMisil.h"
+	"ClienteAsteroide.h"
+	"ClienteModoJuego.h"
+	"ClienteChat.h"
+	"ClienteNavePesada.h"
+	"ClienteNaveGhost.h"
+	"ClientePoder.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\prototiposclientes.h
+	"ControladorRed.h"
+
+1234827658 c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepichi.h
+	"ClienteRed.h"
+	"NavePichi.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\navepichi.h
+	"Nave.h"
+	"ServidorRed.h"
+
+1242341483 c:\documents and settings\luciano\escritorio\t-asteroids\nave.h
+	<math.h>
+	<iostream>
+	<vector>
+	"Targeteable.h"
+	"Colisionable.h"
+	"Hasheable.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientemodojuego.h
+	"ClienteRed.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepesada.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1234827656 c:\documents and settings\luciano\escritorio\t-asteroids\clientenaveghost.h
+	"ClienteRed.h"
+	"Nave.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\seccioncritica.cpp
+	"SeccionCritica.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\servidorchat.cpp
+	"ServidorChat.h"
+
+1234827659 c:\documents and settings\luciano\escritorio\t-asteroids\servidorchat.h
+	"ServidorRed.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\servidorred.cpp
+	"ServidorRed.h"
+	"Logger.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\socket.cpp
+	"Socket.h"
+	<iostream>
+	"Logger.h"
+
+1234827659 source:c:\documents and settings\luciano\escritorio\t-asteroids\sprite.cpp
+	"Sprite.h"
+
+1234827656 source:c:\documents and settings\luciano\escritorio\t-asteroids\teclado.cpp
+	"Teclado.h"
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\texto3d.cpp
+	"Texto3D.h"
+
+1234827660 source:c:\documents and settings\luciano\escritorio\t-asteroids\textura.cpp
+	"Textura.h"
+	<stdio.h>
+	<iostream>
+
+1234827657 source:c:\documents and settings\luciano\escritorio\t-asteroids\thread.cpp
+	"Thread.h"
+
+1234827658 source:c:\documents and settings\luciano\escritorio\t-asteroids\vector.cpp
+	"math.h"
+	"Vector.h"
+
+1242341481 source:c:\documents and settings\luciano\escritorio\t-asteroids\asteroide.cpp
+	"Asteroide.h"
+	"Animable.h"
+	"Engine.h"
+	"Esfera.h"
+	"Settings.h"
+	"Matematicas.h"
+	"Matriz4x4.h"
+	"ModoJuego.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Misil.h"
+	"Poder.h"
+	"BolaExplosiva.h"
+	"Explosion.h"
+	"Espiral.h"
+	"SoundManager.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\settings.h
+	<iostream>
+	<string>
+	"Vector.h"
+	"Escena.h"
+
+1242341484 c:\documents and settings\luciano\escritorio\t-asteroids\bolaexplosiva.h
+	"Animable.h"
+	"Vector.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\explosion.h
+	"Animable.h"
+
+1242341485 c:\documents and settings\luciano\escritorio\t-asteroids\espiral.h
+	"Animable.h"
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\soundmanager.h
+	<string>
+	<map>
+	<vector>
+	"fmod/fmod.h"
+	"fmod/fmod_errors.h"
+	"HashTable.h"
+	"Logger.h"
+
+1242484049 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1242484049 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_codec.h
+
+1242484049 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_dsp.h
+
+1242484049 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_memoryinfo.h
+
+1242484049 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod_errors.h
+	"fmod.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\balacomun.cpp
+	"BalaComun.h"
+	"Engine.h"
+	"Settings.h"
+	"ExplosionParticulas.h"
+	"Asteroide.h"
+	"Nave.h"
+
+1242341486 c:\documents and settings\luciano\escritorio\t-asteroids\explosionparticulas.h
+	"Animable.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\bolaexplosiva.cpp
+	"BolaExplosiva.h"
+	"ExplosionParticulas.h"
+	"OrbitaParticulas.h"
+	"Engine.h"
+	"Objeto3d.h"
+	"Luz.h"
+	"ModoJuego.h"
+	"Escena.h"
+	"Sprite.h"
+	"Humo.h"
+	"Settings.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\orbitaparticulas.h
+	"Animable.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\humo.h
+	"Animable.h"
+
+1242954857 source:c:\documents and settings\luciano\escritorio\t-asteroids\cadenaparticulas.cpp
+	"CadenaParticulas.h"
+	"ModoJuego.h"
+	"SistemaParticulas.h"
+	"Escena.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\cadenaparticulas.h
+	"Animable.h"
+	"vector.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientemodojuego.cpp
+	"ClienteModoJuego.h"
+	"ModoJuego.h"
+	"NavePichi.h"
+	"NavePesada.h"
+	"NaveGhostM.h"
+	"Settings.h"
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\navepesada.h
+	"Nave.h"
+	"ServidorRed.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\naveghostm.h
+	"Nave.h"
+	"ServidorRed.h"
+
+1242341481 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenaveghost.cpp
+	"ClienteNaveGhost.h"
+	"Nave.h"
+	"NaveGhostM.h"
+	"FMunicion.h"
+	"Electricidad.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\fmunicion.h
+
+1242341482 c:\documents and settings\luciano\escritorio\t-asteroids\electricidad.h
+	"Vector.h"
+	"Animable.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepesada.cpp
+	"ClienteNavePesada.h"
+	"NavePesada.h"
+	"FMunicion.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\clientenavepichi.cpp
+	"ClienteNavePichi.h"
+	"Logger.h"
+	"FMunicion.h"
+
+1242341486 source:c:\documents and settings\luciano\escritorio\t-asteroids\condtargeteable.cpp
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Condicionable.h"
+
+1242341485 c:\documents and settings\luciano\escritorio\t-asteroids\condtargeteable.h
+	"Condition.h"
+
+1242484074 c:\documents and settings\luciano\escritorio\t-asteroids\condition.h
+
+1242954698 source:c:\documents and settings\luciano\escritorio\t-asteroids\controladorred.cpp
+	"ControladorRed.h"
+	"Engine.h"
+	"PaqueteRed.h"
+	"Socket.h"
+	"Thread.h"
+	"ServidorRed.h"
+	"ClienteRed.h"
+	"ControladorClienteRed.h"
+	"ControladorConexionRed.h"
+	"HashTable.h"
+	"ObserversConexion.h"
+	"SeccionCritica.h"
+	"PrototiposClientes.h"
+	"Logger.h"
+
+1242341481 source:c:\documents and settings\luciano\escritorio\t-asteroids\ctrljuego.cpp
+	"CtrlJuego.h"
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Modo.h"
+	"MenuIntro.h"
+	"Engine.h"
+	"Settings.h"
+	"SoundManager.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\ctrljuego.h
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\menuintro.h
+	"ModoMenu.h"
+	"Teclado.h"
+	"CtrlJuego.h"
+	"Opcion.h"
+	"ModoMenu3D.h"
+	<vector>
+
+1234827660 c:\documents and settings\luciano\escritorio\t-asteroids\modomenu.h
+	<iostream>
+	"Teclado.h"
+	"Modo.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"Texto2D.h"
+	"Opcion.h"
+	<vector>
+	<iostream>
+	"Modo.h"
+	"Camara.h"
+	"Escena.h"
+	"Texto2D.h"
+	"Engine.h"
+	"Opcion.h"
+	"Multiobjeto3d.h"
+	<vector>
+	<iostream>
+
+1234827657 c:\documents and settings\luciano\escritorio\t-asteroids\opcion.h
+	"Texto2D.h"
+	<vector>
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\modomenu3d.h
+	"Modo.h"
+
+1242494207 source:c:\documents and settings\luciano\escritorio\t-asteroids\dibujable.cpp
+	"Dibujable.h"
+	"Matematicas.h"
+	"Escena.h"
+	"Engine.h"
+	"Esfera.h"
+	"Camara.h"
+
+1242341484 source:c:\documents and settings\luciano\escritorio\t-asteroids\efectorotesc.cpp
+	"EfectoRotEsc.h"
+	"Texto3D.h"
+
+1242341481 c:\documents and settings\luciano\escritorio\t-asteroids\efectorotesc.h
+	"Material.h"
+	"Matematicas.h"
+
+1242341486 source:c:\documents and settings\luciano\escritorio\t-asteroids\electricidad.cpp
+	"Electricidad.h"
+	"Multiobjeto3d.h"
+	"Objeto3d.h"
+	"ModoJuego.h"
+
+1242341481 source:c:\documents and settings\luciano\escritorio\t-asteroids\esfera.cpp
+	"Esfera.h"
+	"Matematicas.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\espiral.cpp
+	"Espiral.h"
+	"Sprite.h"
+	"ModoJuego.h"
+	"Vector.h"
+	"Matematicas.h"
+
+1242341486 source:c:\documents and settings\luciano\escritorio\t-asteroids\explosion.cpp
+	"Explosion.h"
+	"Sprite.h"
+	"Settings.h"
+	"Vector.h"
+
+1242955317 source:c:\documents and settings\luciano\escritorio\t-asteroids\explosionparticulas.cpp
+	"ExplosionParticulas.h"
+	"SistemaParticulas.h"
+	"Vector.h"
+	"ModoJuego.h"
+	"Matematicas.h"
+	"Escena.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\fbalacomun.cpp
+	"FBalaComun.h"
+	"SoundManager.h"
+	"BalaComun.h"
+	"Nave.h"
+	"Objeto3d.h"
+	"Vector.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\fbalacomun.h
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+	<map>
+	"FMunicion.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\felectricidad.cpp
+	"FElectricidad.h"
+	"Electricidad.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"NaveGhostM.h"
+	"MFisica.h"
+	"Vector.h"
+	"Nave.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\felectricidad.h
+	"FMunicion.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\fembestida.cpp
+	"FEmbestida.h"
+	"Vector.h"
+	"Nave.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\fembestida.h
+	"FMunicion.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\fmisil.cpp
+	"FMisil.h"
+	"SoundManager.h"
+	"Targeteable.h"
+	"CondTargeteable.h"
+	"Asteroide.h"
+	"ModoJuego.h"
+	"Objeto3d.h"
+	"Misil.h"
+	"Nave.h"
+	"FMunicion.h"
+	"Vector.h"
+
+1242484072 c:\documents and settings\luciano\escritorio\t-asteroids\fmisil.h
+	<string>
+	<iostream>
+	"FMunicion.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\fmunicion.cpp
+	"FMunicion.h"
+	"Vector.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\humo.cpp
+	"Humo.h"
+	"Sprite.h"
+	"Vector.h"
+	"Matematicas.h"
+	"Settings.h"
+
+1242663294 source:c:\documents and settings\luciano\escritorio\t-asteroids\id3tag.cpp
+	"Id3Tag.h"
+	<stdio.h>
+	<sstream>
+	<fstream>
+
+1242663294 c:\documents and settings\luciano\escritorio\t-asteroids\id3tag.h
+	<string>
+
+1242341484 source:c:\documents and settings\luciano\escritorio\t-asteroids\lensflare.cpp
+	"LensFlare.h"
+	"Matematicas.h"
+
+1242663295 source:c:\documents and settings\luciano\escritorio\t-asteroids\logger.cpp
+	"Logger.h"
+	<sstream>
+	<string>
+
+1242341485 source:c:\documents and settings\luciano\escritorio\t-asteroids\mfisica.cpp
+	"MFisica.h"
+	"SeccionCritica.h"
+	"Condition.h"
+	"Colisionable.h"
+	"Esfera.h"
+	"Animable.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\mainmenu3d.cpp
+	"MainMenu3D.h"
+	"CtrlJuego.h"
+	"MenuCreditos.h"
+	"Teclado.h"
+	"MenuNave.h"
+	"MenuJuego.h"
+	"MenuConfig3D.h"
+	"EfectoRotEsc.h"
+	"MenuItem.h"
+	"ModoJuego.h"
+	"Texto3D.h"
+	"Settings.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\mainmenu3d.h
+	"Menu.h"
+
+1242484072 c:\documents and settings\luciano\escritorio\t-asteroids\menu.h
+	<string>
+	<vector>
+	"Material.h"
+
+1242484072 c:\documents and settings\luciano\escritorio\t-asteroids\menucreditos.h
+	"Menu.h"
+
+1242484074 c:\documents and settings\luciano\escritorio\t-asteroids\menunave.h
+	<vector>
+	"Menu.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\menujuego.h
+	"Menu.h"
+
+1242484073 c:\documents and settings\luciano\escritorio\t-asteroids\menuconfig3d.h
+	"Menu.h"
+
+1242484074 c:\documents and settings\luciano\escritorio\t-asteroids\menuitem.h
+	<vector>
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\menu.cpp
+	"Menu.h"
+	"Engine.h"
+	"MenuItem.h"
+	"EfectoRotEsc.h"
+	"SoundManager.h"
+	"Logger.h"
+	"Teclado.h"
+	"Multiobjeto3d.h"
+	"Texto3D.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\menuconfig3d.cpp
+	"MenuConfig3D.h"
+	"MainMenu3D.h"
+	"ModoJuego.h"
+	"Teclado.h"
+	"TextBox.h"
+	"Settings.h"
+	"MenuItem.h"
+	<sstream>
+
+1242341483 c:\documents and settings\luciano\escritorio\t-asteroids\textbox.h
+	<vector>
+	"Texto3D.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\menucreditos.cpp
+	"MenuCreditos.h"
+	<sstream>
+	"Texto2D.h"
+	"Texto3D.h"
+	"MainMenu3D.h"
+	"Dibujable.h"
+	"Luz.h"
+	"MenuItem.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\menuitem.cpp
+	"MenuItem.h"
+	"Dibujable.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\menujuego.cpp
+	"MenuJuego.h"
+	"MenuRed.h"
+	"ModoJuego.h"
+	"CtrlJuego.h"
+	"EfectoRotEsc.h"
+	"MainMenu3D.h"
+	"Luz.h"
+	"Dibujable.h"
+	"MenuItem.h"
+
+1242484074 c:\documents and settings\luciano\escritorio\t-asteroids\menured.h
+	"Menu.h"
+	"ObserversConexion.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\menunave.cpp
+	"MenuNave.h"
+	"Objeto3d.h"
+	"NaveGhostM.h"
+	"NavePichi.h"
+	"NavePesada.h"
+	"Teclado.h"
+	"ModoMenu3D.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Luz.h"
+	"Dibujable.h"
+	"Settings.h"
+	"MenuItem.h"
+	"CtrlJuego.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\menured.cpp
+	"MenuRed.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"MenuJuego.h"
+	"Teclado.h"
+	"ModoJuego.h"
+	"Logger.h"
+	"Luz.h"
+	"TextBox.h"
+	"ControladorRed.h"
+	"Evento.h"
+	"Texto2D.h"
+	"MFisica.h"
+	"MenuItem.h"
+
+1242341481 source:c:\documents and settings\luciano\escritorio\t-asteroids\misil.cpp
+	"Misil.h"
+	"Vector.h"
+	"Luz.h"
+	"Asteroide.h"
+	"Nave.h"
+	"ModoJuego.h"
+	"Settings.h"
+	"Humo.h"
+	"Matematicas.h"
+	"Targeteable.h"
+
+1242484074 source:c:\documents and settings\luciano\escritorio\t-asteroids\modojuego.cpp
+	"ModoJuego.h"
+	"Engine.h"
+	"CtrlJuego.h"
+	"ModoMenu.h"
+	"Settings.h"
+	"Nave.h"
+	"Asteroide.h"
+	"Colisionable.h"
+	"MFisica.h"
+	"ClienteModoJuego.h"
+	"NavePichi.h"
+	"NaveGhostM.H"
+	"NavePesada.h"
+	"CondTargeteable.h"
+	"Targeteable.h"
+	"SistemaParticulas.h"
+	"Teclado.h"
+	"Mouse.h"
+	"ModoMenu3D.h"
+	"Logger.h"
+	"FMunicion.h"
+	"SoundManager.h"
+	"Escena.h"
+	"ControladorRed.h"
+	"Dibujable.h"
+	"PaqueteRed.h"
+	"HashTable.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\modomenu3d.cpp
+	"ModoMenu3D.h"
+	"CtrlJuego.h"
+	"MainMenu3D.h"
+	"SoundManager.h"
+	"Menu.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\municion.cpp
+	"Municion.h"
+	"Nave.h"
+
+1242663294 source:c:\documents and settings\luciano\escritorio\t-asteroids\musicplayer.cpp
+	"MusicPlayer.h"
+	"Id3Tag.h"
+	<time.h>
+
+1242663295 c:\documents and settings\luciano\escritorio\t-asteroids\musicplayer.h
+	<vector>
+	<string>
+	"SoundPlayer.h"
+	"ExtendedCallbacks.h"
+
+1242663294 c:\documents and settings\luciano\escritorio\t-asteroids\soundplayer.h
+	"SeccionCritica.h"
+	"ExtendedCallbacks.h"
+	"fmod/fmod.hpp"
+	"fmod/fmod.h"
+	<map>
+	<string>
+
+1242663295 c:\documents and settings\luciano\escritorio\t-asteroids\extendedcallbacks.h
+	<iostream>
+	<set>
+
+1242484050 c:\documents and settings\luciano\escritorio\t-asteroids\fmod\fmod.hpp
+	"fmod.h"
+
+1242341482 source:c:\documents and settings\luciano\escritorio\t-asteroids\nave.cpp
+	"Nave.h"
+	"Objeto3d.h"
+	"Settings.h"
+	"Engine.h"
+	"Misil.h"
+	"Asteroide.h"
+	"BalaComun.h"
+	"CadenaParticulas.h"
+	"FMunicion.h"
+	"FMisil.h"
+	"FElectricidad.h"
+	"FBalaComun.h"
+	"BolaExplosiva.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\naveghostm.cpp
+	"NaveGhostM.h"
+	"Electricidad.h"
+	"FBalaComun.h"
+	"FElectricidad.h"
+	"BolaExplosiva.h"
+	"SoundManager.h"
+	"Asteroide.h"
+	"Multiobjeto3d.h"
+	"Settings.h"
+
+1242484073 source:c:\documents and settings\luciano\escritorio\t-asteroids\navepesada.cpp
+	"NavePesada.h"
+	"Logger.h"
+	"Objeto3d.h"
+	"BalaComun.h"
+	"Colisionable.h"
+	"Asteroide.h"
+	"FEmbestida.h"
+	"FBalaComun.h"
+	"BolaExplosiva.h"
+	"Settings.h"
+
+1242484072 source:c:\documents and settings\luciano\escritorio\t-asteroids\navepichi.cpp
+	"NavePichi.h"
+	"FBalaComun.h"
+	"FMisil.h"
+	"BolaExplosiva.h"
+	"Asteroide.h"
+	"Settings.h"
+
